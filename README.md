@@ -1,2 +1,5 @@
-# TrabalhoAedsIII
-Trabalho em desenvolvimento, para a matéria de Algoritimos e Estruturas de Dados III, a qual esta relacionada a grafos. 
+Após baixar o projeto é necessário inicializar o front e o back via terminal
+
+Back-End: Na pasta raiz rodar `python app.py`
+
+Front-End: Na pasta frontend rodar `npm start`

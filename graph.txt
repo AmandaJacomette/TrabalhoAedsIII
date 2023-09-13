@@ -1,0 +1,1893 @@
+76 946
+Carlos Veras (PT) Helder Salomão (PT) 0.078
+Flávio Nogueira (PT) Helder Salomão (PT) 0.067
+Helder Salomão (PT) Carlos Veras (PT) 0.078
+Helder Salomão (PT) Flávio Nogueira (PT) 0.067
+Helder Salomão (PT) Rui Falcão (PT) 0.093
+Helder Salomão (PT) Rubens Pereira Júnior (PT) 0.089
+José Guimarães (PT) Alfredinho (PT) 0.060
+José Guimarães (PT) Ana Pimentel (PT) 0.083
+José Guimarães (PT) Carol Dartora (PT) 0.099
+José Guimarães (PT) Delegada Adriana Accorsi (PT) 0.094
+José Guimarães (PT) João Daniel (PT) 0.088
+José Guimarães (PT) Jorge Solla (PT) 0.061
+José Guimarães (PT) José Airton Félix Cirilo (PT) 0.095
+José Guimarães (PT) Joseildo Ramos (PT) 0.088
+José Guimarães (PT) Kiko Celeguim (PT) 0.089
+José Guimarães (PT) Luizianne Lins (PT) 0.062
+José Guimarães (PT) Marcon (PT) 0.074
+José Guimarães (PT) Maria do Rosário (PT) 0.099
+José Guimarães (PT) Natália Bonavides (PT) 0.099
+José Guimarães (PT) Odair Cunha (PT) 0.085
+José Guimarães (PT) Reginaldo Lopes (PT) 0.091
+José Guimarães (PT) Reimont (PT) 0.092
+José Guimarães (PT) Vander Loubet (PT) 0.084
+José Guimarães (PT) Vicentinho (PT) 0.099
+José Guimarães (PT) Waldenor Pereira (PT) 0.096
+José Guimarães (PT) Washington Quaquá (PT) 0.082
+José Guimarães (PT) Zé Neto (PT) 0.049
+José Guimarães (PT) Zeca Dirceu (PT) 0.043
+José Guimarães (PT) Fernando Mineiro (PT) 0.088
+José Guimarães (PT) Welter (PT) 0.088
+José Guimarães (PT) Luiza Erundina (PSOL) 0.077
+Rui Falcão (PT) Helder Salomão (PT) 0.093
+Rui Falcão (PT) Rubens Pereira Júnior (PT) 0.099
+Rubens Pereira Júnior (PT) Helder Salomão (PT) 0.089
+Rubens Pereira Júnior (PT) Rui Falcão (PT) 0.099
+Lindbergh Farias (PT) Ana Paula Lima (PT) 0.092
+Lindbergh Farias (PT) Camila Jara (PT) 0.073
+Lindbergh Farias (PT) Carol Dartora (PT) 0.099
+Lindbergh Farias (PT) Jilmar Tatto (PT) 0.089
+Lindbergh Farias (PT) José Airton Félix Cirilo (PT) 0.095
+Lindbergh Farias (PT) Joseildo Ramos (PT) 0.088
+Lindbergh Farias (PT) Kiko Celeguim (PT) 0.089
+Lindbergh Farias (PT) Luizianne Lins (PT) 0.099
+Lindbergh Farias (PT) Merlong Solano (PT) 0.087
+Lindbergh Farias (PT) Natália Bonavides (PT) 0.099
+Lindbergh Farias (PT) Nilto Tatto (PT) 0.088
+Lindbergh Farias (PT) Paulo Guedes (PT) 0.086
+Lindbergh Farias (PT) Vander Loubet (PT) 0.096
+Lindbergh Farias (PT) Juliana Cardoso (PT) 0.095
+Lindbergh Farias (PT) Tadeu Veneri (PT) 0.100
+Luiz Couto (PT) Patrus Ananias (PT) 0.095
+Luiz Couto (PT) Luiza Erundina (PSOL) 0.077
+Rubens Otoni (PT) João Daniel (PT) 0.100
+Rubens Otoni (PT) José Airton Félix Cirilo (PT) 0.079
+Rubens Otoni (PT) Washington Quaquá (PT) 0.098
+Airton Faleiro (PT) Josias Gomes (PT) 0.091
+Airton Faleiro (PT) Alfredinho (PT) 0.078
+Airton Faleiro (PT) Ana Pimentel (PT) 0.065
+Airton Faleiro (PT) Arlindo Chinaglia (PT) 0.026
+Airton Faleiro (PT) Benedita da Silva (PT) 0.026
+Airton Faleiro (PT) Bohn Gass (PT) 0.078
+Airton Faleiro (PT) Carlos Zarattini (PT) 0.065
+Airton Faleiro (PT) Carol Dartora (PT) 0.091
+Airton Faleiro (PT) Delegada Adriana Accorsi (PT) 0.065
+Airton Faleiro (PT) Dilvanda Faro (PT) 0.026
+Airton Faleiro (PT) Dimas Gadelha (PT) 0.078
+Airton Faleiro (PT) Dr. Francisco (PT) 0.039
+Airton Faleiro (PT) Florentino Neto (PT) 0.078
+Airton Faleiro (PT) Jack Rocha (PT) 0.052
+Airton Faleiro (PT) João Daniel (PT) 0.091
+Airton Faleiro (PT) Merlong Solano (PT) 0.026
+Airton Faleiro (PT) Nilto Tatto (PT) 0.091
+Airton Faleiro (PT) Padre João (PT) 0.052
+Airton Faleiro (PT) Reimont (PT) 0.052
+Airton Faleiro (PT) Rogério Correia (PT) 0.052
+Airton Faleiro (PT) Vicentinho (PT) 0.091
+Alfredinho (PT) José Guimarães (PT) 0.060
+Alfredinho (PT) Josias Gomes (PT) 0.083
+Alfredinho (PT) Airton Faleiro (PT) 0.078
+Alfredinho (PT) Ana Paula Lima (PT) 0.079
+Alfredinho (PT) Ana Pimentel (PT) 0.048
+Alfredinho (PT) Arlindo Chinaglia (PT) 0.012
+Alfredinho (PT) Benedita da Silva (PT) 0.012
+Alfredinho (PT) Bohn Gass (PT) 0.085
+Alfredinho (PT) Carlos Zarattini (PT) 0.060
+Alfredinho (PT) Carol Dartora (PT) 0.037
+Alfredinho (PT) Delegada Adriana Accorsi (PT) 0.036
+Alfredinho (PT) Denise Pessôa (PT) 0.099
+Alfredinho (PT) Dilvanda Faro (PT) 0.060
+Alfredinho (PT) Dimas Gadelha (PT) 0.060
+Alfredinho (PT) Dr. Francisco (PT) 0.036
+Alfredinho (PT) Florentino Neto (PT) 0.071
+Alfredinho (PT) Ivoneide Caetano (PT) 0.068
+Alfredinho (PT) Jack Rocha (PT) 0.048
+Alfredinho (PT) João Daniel (PT) 0.037
+Alfredinho (PT) Jorge Solla (PT) 0.024
+Alfredinho (PT) José Airton Félix Cirilo (PT) 0.048
+Alfredinho (PT) Joseildo Ramos (PT) 0.062
+Alfredinho (PT) Kiko Celeguim (PT) 0.051
+Alfredinho (PT) Leonardo Monteiro (PT) 0.064
+Alfredinho (PT) Luizianne Lins (PT) 0.049
+Alfredinho (PT) Marcon (PT) 0.049
+Alfredinho (PT) Maria do Rosário (PT) 0.042
+Alfredinho (PT) Merlong Solano (PT) 0.024
+Alfredinho (PT) Natália Bonavides (PT) 0.074
+Alfredinho (PT) Nilto Tatto (PT) 0.075
+Alfredinho (PT) Odair Cunha (PT) 0.061
+Alfredinho (PT) Padre João (PT) 0.036
+Alfredinho (PT) Paulão (PT) 0.073
+Alfredinho (PT) Paulo Guedes (PT) 0.074
+Alfredinho (PT) Pedro Uczai (PT) 0.071
+Alfredinho (PT) Reginaldo Lopes (PT) 0.045
+Alfredinho (PT) Reginete Bispo (PT) 0.070
+Alfredinho (PT) Reimont (PT) 0.024
+Alfredinho (PT) Rogério Correia (PT) 0.060
+Alfredinho (PT) Vander Loubet (PT) 0.060
+Alfredinho (PT) Vicentinho (PT) 0.062
+Alfredinho (PT) Waldenor Pereira (PT) 0.077
+Alfredinho (PT) Washington Quaquá (PT) 0.082
+Alfredinho (PT) Zé Neto (PT) 0.037
+Alfredinho (PT) Zeca Dirceu (PT) 0.029
+Alfredinho (PT) Fernando Mineiro (PT) 0.050
+Alfredinho (PT) Juliana Cardoso (PT) 0.081
+Alfredinho (PT) Welter (PT) 0.062
+Alfredinho (PT) Dandara (PT) 0.095
+Alfredinho (PT) Luiza Erundina (PSOL) 0.077
+Ana Paula Lima (PT) Lindbergh Farias (PT) 0.092
+Ana Paula Lima (PT) Josias Gomes (PT) 0.092
+Ana Paula Lima (PT) Alfredinho (PT) 0.079
+Ana Paula Lima (PT) Ana Pimentel (PT) 0.092
+Ana Paula Lima (PT) Arlindo Chinaglia (PT) 0.026
+Ana Paula Lima (PT) Benedita da Silva (PT) 0.026
+Ana Paula Lima (PT) Carlos Zarattini (PT) 0.066
+Ana Paula Lima (PT) Carol Dartora (PT) 0.092
+Ana Paula Lima (PT) Delegada Adriana Accorsi (PT) 0.066
+Ana Paula Lima (PT) Dilvanda Faro (PT) 0.053
+Ana Paula Lima (PT) Dimas Gadelha (PT) 0.092
+Ana Paula Lima (PT) Dr. Francisco (PT) 0.039
+Ana Paula Lima (PT) Florentino Neto (PT) 0.092
+Ana Paula Lima (PT) Jack Rocha (PT) 0.039
+Ana Paula Lima (PT) Merlong Solano (PT) 0.026
+Ana Paula Lima (PT) Padre João (PT) 0.066
+Ana Paula Lima (PT) Reimont (PT) 0.066
+Ana Paula Lima (PT) Rogério Correia (PT) 0.066
+Ana Pimentel (PT) José Guimarães (PT) 0.083
+Ana Pimentel (PT) Josias Gomes (PT) 0.095
+Ana Pimentel (PT) Airton Faleiro (PT) 0.065
+Ana Pimentel (PT) Alfredinho (PT) 0.048
+Ana Pimentel (PT) Ana Paula Lima (PT) 0.092
+Ana Pimentel (PT) Arlindo Chinaglia (PT) 0.036
+Ana Pimentel (PT) Benedita da Silva (PT) 0.024
+Ana Pimentel (PT) Bohn Gass (PT) 0.085
+Ana Pimentel (PT) Carlos Zarattini (PT) 0.071
+Ana Pimentel (PT) Carol Dartora (PT) 0.049
+Ana Pimentel (PT) Delegada Adriana Accorsi (PT) 0.060
+Ana Pimentel (PT) Dilvanda Faro (PT) 0.071
+Ana Pimentel (PT) Dimas Gadelha (PT) 0.071
+Ana Pimentel (PT) Dr. Francisco (PT) 0.060
+Ana Pimentel (PT) Florentino Neto (PT) 0.083
+Ana Pimentel (PT) Ivoneide Caetano (PT) 0.096
+Ana Pimentel (PT) Jack Rocha (PT) 0.036
+Ana Pimentel (PT) João Daniel (PT) 0.025
+Ana Pimentel (PT) Jorge Solla (PT) 0.061
+Ana Pimentel (PT) José Airton Félix Cirilo (PT) 0.063
+Ana Pimentel (PT) Kiko Celeguim (PT) 0.076
+Ana Pimentel (PT) Leonardo Monteiro (PT) 0.051
+Ana Pimentel (PT) Luizianne Lins (PT) 0.074
+Ana Pimentel (PT) Marcon (PT) 0.086
+Ana Pimentel (PT) Maria do Rosário (PT) 0.056
+Ana Pimentel (PT) Merlong Solano (PT) 0.036
+Ana Pimentel (PT) Natália Bonavides (PT) 0.062
+Ana Pimentel (PT) Nilto Tatto (PT) 0.050
+Ana Pimentel (PT) Odair Cunha (PT) 0.073
+Ana Pimentel (PT) Padre João (PT) 0.048
+Ana Pimentel (PT) Paulão (PT) 0.098
+Ana Pimentel (PT) Reginaldo Lopes (PT) 0.076
+Ana Pimentel (PT) Reginete Bispo (PT) 0.099
+Ana Pimentel (PT) Reimont (PT) 0.060
+Ana Pimentel (PT) Rogério Correia (PT) 0.071
+Ana Pimentel (PT) Vander Loubet (PT) 0.072
+Ana Pimentel (PT) Vicentinho (PT) 0.049
+Ana Pimentel (PT) Washington Quaquá (PT) 0.098
+Ana Pimentel (PT) Zé Neto (PT) 0.074
+Ana Pimentel (PT) Zeca Dirceu (PT) 0.087
+Ana Pimentel (PT) Fernando Mineiro (PT) 0.088
+Ana Pimentel (PT) Gleisi Hoffmann (PT) 0.098
+Ana Pimentel (PT) Juliana Cardoso (PT) 0.081
+Ana Pimentel (PT) Tadeu Veneri (PT) 0.100
+Ana Pimentel (PT) Welter (PT) 0.075
+Ana Pimentel (PT) Dandara (PT) 0.095
+Ana Pimentel (PT) Luiza Erundina (PSOL) 0.077
+Arlindo Chinaglia (PT) Josias Gomes (PT) 0.036
+Arlindo Chinaglia (PT) Airton Faleiro (PT) 0.026
+Arlindo Chinaglia (PT) Alfredinho (PT) 0.012
+Arlindo Chinaglia (PT) Ana Paula Lima (PT) 0.026
+Arlindo Chinaglia (PT) Ana Pimentel (PT) 0.036
+Arlindo Chinaglia (PT) Benedita da Silva (PT) 0.011
+Arlindo Chinaglia (PT) Bohn Gass (PT) 0.037
+Arlindo Chinaglia (PT) Camila Jara (PT) 0.073
+Arlindo Chinaglia (PT) Carlos Zarattini (PT) 0.035
+Arlindo Chinaglia (PT) Carol Dartora (PT) 0.012
+Arlindo Chinaglia (PT) Delegada Adriana Accorsi (PT) 0.012
+Arlindo Chinaglia (PT) Denise Pessôa (PT) 0.037
+Arlindo Chinaglia (PT) Dilvanda Faro (PT) 0.035
+Arlindo Chinaglia (PT) Dimas Gadelha (PT) 0.035
+Arlindo Chinaglia (PT) Dr. Francisco (PT) 0.011
+Arlindo Chinaglia (PT) Florentino Neto (PT) 0.059
+Arlindo Chinaglia (PT) Ivoneide Caetano (PT) 0.014
+Arlindo Chinaglia (PT) Jack Rocha (PT) 0.046
+Arlindo Chinaglia (PT) Jilmar Tatto (PT) 0.089
+Arlindo Chinaglia (PT) João Daniel (PT) 0.012
+Arlindo Chinaglia (PT) Jorge Solla (PT) 0.024
+Arlindo Chinaglia (PT) José Airton Félix Cirilo (PT) 0.032
+Arlindo Chinaglia (PT) Joseildo Ramos (PT) 0.050
+Arlindo Chinaglia (PT) Kiko Celeguim (PT) 0.038
+Arlindo Chinaglia (PT) Leonardo Monteiro (PT) 0.051
+Arlindo Chinaglia (PT) Luizianne Lins (PT) 0.025
+Arlindo Chinaglia (PT) Marcon (PT) 0.037
+Arlindo Chinaglia (PT) Maria do Rosário (PT) 0.042
+Arlindo Chinaglia (PT) Merlong Solano (PT) 0.023
+Arlindo Chinaglia (PT) Natália Bonavides (PT) 0.037
+Arlindo Chinaglia (PT) Nilto Tatto (PT) 0.037
+Arlindo Chinaglia (PT) Odair Cunha (PT) 0.049
+Arlindo Chinaglia (PT) Padre João (PT) 0.045
+Arlindo Chinaglia (PT) Paulão (PT) 0.061
+Arlindo Chinaglia (PT) Paulo Guedes (PT) 0.062
+Arlindo Chinaglia (PT) Pedro Uczai (PT) 0.036
+Arlindo Chinaglia (PT) Reginaldo Lopes (PT) 0.061
+Arlindo Chinaglia (PT) Reginete Bispo (PT) 0.056
+Arlindo Chinaglia (PT) Reimont (PT) 0.034
+Arlindo Chinaglia (PT) Rogério Correia (PT) 0.035
+Arlindo Chinaglia (PT) Valmir Assunção (PT) 0.089
+Arlindo Chinaglia (PT) Vander Loubet (PT) 0.036
+Arlindo Chinaglia (PT) Vicentinho (PT) 0.025
+Arlindo Chinaglia (PT) Waldenor Pereira (PT) 0.077
+Arlindo Chinaglia (PT) Washington Quaquá (PT) 0.049
+Arlindo Chinaglia (PT) Zé Neto (PT) 0.037
+Arlindo Chinaglia (PT) Zeca Dirceu (PT) 0.014
+Arlindo Chinaglia (PT) Alexandre Lindenmeyer (PT) 0.062
+Arlindo Chinaglia (PT) Fernando Mineiro (PT) 0.037
+Arlindo Chinaglia (PT) Gleisi Hoffmann (PT) 0.085
+Arlindo Chinaglia (PT) Juliana Cardoso (PT) 0.041
+Arlindo Chinaglia (PT) Tadeu Veneri (PT) 0.062
+Arlindo Chinaglia (PT) Welter (PT) 0.050
+Arlindo Chinaglia (PT) Dandara (PT) 0.068
+Arlindo Chinaglia (PT) Luiza Erundina (PSOL) 0.077
+Benedita da Silva (PT) Josias Gomes (PT) 0.012
+Benedita da Silva (PT) Airton Faleiro (PT) 0.026
+Benedita da Silva (PT) Alfredinho (PT) 0.012
+Benedita da Silva (PT) Ana Paula Lima (PT) 0.026
+Benedita da Silva (PT) Ana Pimentel (PT) 0.024
+Benedita da Silva (PT) Arlindo Chinaglia (PT) 0.011
+Benedita da Silva (PT) Bohn Gass (PT) 0.037
+Benedita da Silva (PT) Camila Jara (PT) 0.049
+Benedita da Silva (PT) Carlos Zarattini (PT) 0.035
+Benedita da Silva (PT) Carol Dartora (PT) 0.012
+Benedita da Silva (PT) Delegada Adriana Accorsi (PT) 0.012
+Benedita da Silva (PT) Denise Pessôa (PT) 0.037
+Benedita da Silva (PT) Dilvanda Faro (PT) 0.023
+Benedita da Silva (PT) Dimas Gadelha (PT) 0.035
+Benedita da Silva (PT) Dr. Francisco (PT) 0.023
+Benedita da Silva (PT) Florentino Neto (PT) 0.047
+Benedita da Silva (PT) Ivoneide Caetano (PT) 0.014
+Benedita da Silva (PT) Jack Rocha (PT) 0.034
+Benedita da Silva (PT) Jilmar Tatto (PT) 0.076
+Benedita da Silva (PT) João Daniel (PT) 0.000
+Benedita da Silva (PT) Jorge Solla (PT) 0.012
+Benedita da Silva (PT) José Airton Félix Cirilo (PT) 0.000
+Benedita da Silva (PT) Joseildo Ramos (PT) 0.037
+Benedita da Silva (PT) Kiko Celeguim (PT) 0.025
+Benedita da Silva (PT) Leonardo Monteiro (PT) 0.026
+Benedita da Silva (PT) Luizianne Lins (PT) 0.012
+Benedita da Silva (PT) Marcon (PT) 0.025
+Benedita da Silva (PT) Maria do Rosário (PT) 0.042
+Benedita da Silva (PT) Merlong Solano (PT) 0.011
+Benedita da Silva (PT) Natália Bonavides (PT) 0.025
+Benedita da Silva (PT) Nilto Tatto (PT) 0.012
+Benedita da Silva (PT) Odair Cunha (PT) 0.037
+Benedita da Silva (PT) Padre João (PT) 0.045
+Benedita da Silva (PT) Paulão (PT) 0.037
+Benedita da Silva (PT) Paulo Guedes (PT) 0.049
+Benedita da Silva (PT) Pedro Uczai (PT) 0.048
+Benedita da Silva (PT) Reginaldo Lopes (PT) 0.061
+Benedita da Silva (PT) Reginete Bispo (PT) 0.056
+Benedita da Silva (PT) Reimont (PT) 0.034
+Benedita da Silva (PT) Rogério Correia (PT) 0.023
+Benedita da Silva (PT) Valmir Assunção (PT) 0.076
+Benedita da Silva (PT) Vander Loubet (PT) 0.024
+Benedita da Silva (PT) Vicentinho (PT) 0.025
+Benedita da Silva (PT) Waldenor Pereira (PT) 0.058
+Benedita da Silva (PT) Washington Quaquá (PT) 0.033
+Benedita da Silva (PT) Zé Neto (PT) 0.025
+Benedita da Silva (PT) Zeca Dirceu (PT) 0.029
+Benedita da Silva (PT) Alexandre Lindenmeyer (PT) 0.062
+Benedita da Silva (PT) Fernando Mineiro (PT) 0.025
+Benedita da Silva (PT) Gleisi Hoffmann (PT) 0.061
+Benedita da Silva (PT) Juliana Cardoso (PT) 0.027
+Benedita da Silva (PT) Tadeu Veneri (PT) 0.050
+Benedita da Silva (PT) Welter (PT) 0.050
+Benedita da Silva (PT) Dandara (PT) 0.054
+Bohn Gass (PT) Josias Gomes (PT) 0.085
+Bohn Gass (PT) Airton Faleiro (PT) 0.078
+Bohn Gass (PT) Alfredinho (PT) 0.085
+Bohn Gass (PT) Ana Pimentel (PT) 0.085
+Bohn Gass (PT) Arlindo Chinaglia (PT) 0.037
+Bohn Gass (PT) Benedita da Silva (PT) 0.037
+Bohn Gass (PT) Carlos Zarattini (PT) 0.061
+Bohn Gass (PT) Carol Dartora (PT) 0.086
+Bohn Gass (PT) Delegada Adriana Accorsi (PT) 0.085
+Bohn Gass (PT) Dilvanda Faro (PT) 0.061
+Bohn Gass (PT) Dimas Gadelha (PT) 0.061
+Bohn Gass (PT) Dr. Francisco (PT) 0.037
+Bohn Gass (PT) Florentino Neto (PT) 0.098
+Bohn Gass (PT) Jack Rocha (PT) 0.061
+Bohn Gass (PT) João Daniel (PT) 0.088
+Bohn Gass (PT) Luizianne Lins (PT) 0.099
+Bohn Gass (PT) Merlong Solano (PT) 0.024
+Bohn Gass (PT) Natália Bonavides (PT) 0.099
+Bohn Gass (PT) Nilto Tatto (PT) 0.088
+Bohn Gass (PT) Padre João (PT) 0.061
+Bohn Gass (PT) Reginete Bispo (PT) 0.070
+Bohn Gass (PT) Reimont (PT) 0.037
+Bohn Gass (PT) Rogério Correia (PT) 0.049
+Bohn Gass (PT) Vicentinho (PT) 0.074
+Bohn Gass (PT) Zeca Dirceu (PT) 0.087
+Bohn Gass (PT) Alexandre Lindenmeyer (PT) 0.100
+Bohn Gass (PT) Juliana Cardoso (PT) 0.095
+Bohn Gass (PT) Tadeu Veneri (PT) 0.100
+Camila Jara (PT) Lindbergh Farias (PT) 0.073
+Camila Jara (PT) Josias Gomes (PT) 0.098
+Camila Jara (PT) Arlindo Chinaglia (PT) 0.073
+Camila Jara (PT) Benedita da Silva (PT) 0.049
+Camila Jara (PT) Dilvanda Faro (PT) 0.098
+Camila Jara (PT) Dr. Francisco (PT) 0.085
+Camila Jara (PT) Florentino Neto (PT) 0.073
+Camila Jara (PT) Merlong Solano (PT) 0.012
+Camila Jara (PT) Padre João (PT) 0.098
+Camila Jara (PT) Reimont (PT) 0.098
+Camila Jara (PT) Rogério Correia (PT) 0.098
+Carlos Zarattini (PT) Josias Gomes (PT) 0.095
+Carlos Zarattini (PT) Airton Faleiro (PT) 0.065
+Carlos Zarattini (PT) Alfredinho (PT) 0.060
+Carlos Zarattini (PT) Ana Paula Lima (PT) 0.066
+Carlos Zarattini (PT) Ana Pimentel (PT) 0.071
+Carlos Zarattini (PT) Arlindo Chinaglia (PT) 0.035
+Carlos Zarattini (PT) Benedita da Silva (PT) 0.035
+Carlos Zarattini (PT) Bohn Gass (PT) 0.061
+Carlos Zarattini (PT) Carol Dartora (PT) 0.062
+Carlos Zarattini (PT) Delegada Adriana Accorsi (PT) 0.071
+Carlos Zarattini (PT) Denise Pessôa (PT) 0.074
+Carlos Zarattini (PT) Dilvanda Faro (PT) 0.071
+Carlos Zarattini (PT) Dimas Gadelha (PT) 0.059
+Carlos Zarattini (PT) Dr. Francisco (PT) 0.024
+Carlos Zarattini (PT) Florentino Neto (PT) 0.082
+Carlos Zarattini (PT) Ivoneide Caetano (PT) 0.068
+Carlos Zarattini (PT) Jack Rocha (PT) 0.047
+Carlos Zarattini (PT) João Daniel (PT) 0.062
+Carlos Zarattini (PT) Jorge Solla (PT) 0.073
+Carlos Zarattini (PT) José Airton Félix Cirilo (PT) 0.048
+Carlos Zarattini (PT) Joseildo Ramos (PT) 0.100
+Carlos Zarattini (PT) Kiko Celeguim (PT) 0.076
+Carlos Zarattini (PT) Leonardo Monteiro (PT) 0.064
+Carlos Zarattini (PT) Luizianne Lins (PT) 0.086
+Carlos Zarattini (PT) Marcon (PT) 0.062
+Carlos Zarattini (PT) Maria do Rosário (PT) 0.085
+Carlos Zarattini (PT) Merlong Solano (PT) 0.035
+Carlos Zarattini (PT) Natália Bonavides (PT) 0.086
+Carlos Zarattini (PT) Nilto Tatto (PT) 0.075
+Carlos Zarattini (PT) Odair Cunha (PT) 0.085
+Carlos Zarattini (PT) Padre João (PT) 0.059
+Carlos Zarattini (PT) Paulão (PT) 0.061
+Carlos Zarattini (PT) Pedro Uczai (PT) 0.095
+Carlos Zarattini (PT) Reginaldo Lopes (PT) 0.091
+Carlos Zarattini (PT) Reginete Bispo (PT) 0.070
+Carlos Zarattini (PT) Reimont (PT) 0.035
+Carlos Zarattini (PT) Rogério Correia (PT) 0.059
+Carlos Zarattini (PT) Vander Loubet (PT) 0.084
+Carlos Zarattini (PT) Vicentinho (PT) 0.049
+Carlos Zarattini (PT) Washington Quaquá (PT) 0.049
+Carlos Zarattini (PT) Zé Neto (PT) 0.062
+Carlos Zarattini (PT) Zeca Dirceu (PT) 0.058
+Carlos Zarattini (PT) Alexandre Lindenmeyer (PT) 0.100
+Carlos Zarattini (PT) Fernando Mineiro (PT) 0.062
+Carlos Zarattini (PT) Juliana Cardoso (PT) 0.068
+Carlos Zarattini (PT) Tadeu Veneri (PT) 0.100
+Carlos Zarattini (PT) Welter (PT) 0.050
+Carlos Zarattini (PT) Dandara (PT) 0.095
+Carlos Zarattini (PT) Luiza Erundina (PSOL) 0.077
+Carol Dartora (PT) José Guimarães (PT) 0.099
+Carol Dartora (PT) Lindbergh Farias (PT) 0.099
+Carol Dartora (PT) Josias Gomes (PT) 0.074
+Carol Dartora (PT) Airton Faleiro (PT) 0.091
+Carol Dartora (PT) Alfredinho (PT) 0.037
+Carol Dartora (PT) Ana Paula Lima (PT) 0.092
+Carol Dartora (PT) Ana Pimentel (PT) 0.049
+Carol Dartora (PT) Arlindo Chinaglia (PT) 0.012
+Carol Dartora (PT) Benedita da Silva (PT) 0.012
+Carol Dartora (PT) Bohn Gass (PT) 0.086
+Carol Dartora (PT) Carlos Zarattini (PT) 0.062
+Carol Dartora (PT) Delegada Adriana Accorsi (PT) 0.049
+Carol Dartora (PT) Dilvanda Faro (PT) 0.037
+Carol Dartora (PT) Dimas Gadelha (PT) 0.062
+Carol Dartora (PT) Dr. Francisco (PT) 0.025
+Carol Dartora (PT) Florentino Neto (PT) 0.086
+Carol Dartora (PT) Jack Rocha (PT) 0.037
+Carol Dartora (PT) João Daniel (PT) 0.062
+Carol Dartora (PT) Jorge Solla (PT) 0.074
+Carol Dartora (PT) José Airton Félix Cirilo (PT) 0.095
+Carol Dartora (PT) Leonardo Monteiro (PT) 0.090
+Carol Dartora (PT) Luizianne Lins (PT) 0.099
+Carol Dartora (PT) Marcon (PT) 0.086
+Carol Dartora (PT) Maria do Rosário (PT) 0.070
+Carol Dartora (PT) Merlong Solano (PT) 0.012
+Carol Dartora (PT) Natália Bonavides (PT) 0.099
+Carol Dartora (PT) Nilto Tatto (PT) 0.075
+Carol Dartora (PT) Odair Cunha (PT) 0.099
+Carol Dartora (PT) Padre João (PT) 0.037
+Carol Dartora (PT) Paulo Guedes (PT) 0.086
+Carol Dartora (PT) Pedro Uczai (PT) 0.086
+Carol Dartora (PT) Reginaldo Lopes (PT) 0.076
+Carol Dartora (PT) Reimont (PT) 0.037
+Carol Dartora (PT) Rogério Correia (PT) 0.037
+Carol Dartora (PT) Vander Loubet (PT) 0.099
+Carol Dartora (PT) Vicentinho (PT) 0.086
+Carol Dartora (PT) Zé Neto (PT) 0.099
+Carol Dartora (PT) Zeca Dirceu (PT) 0.072
+Carol Dartora (PT) Juliana Cardoso (PT) 0.095
+Carol Dartora (PT) Welter (PT) 0.100
+Carol Dartora (PT) Luiza Erundina (PSOL) 0.077
+Chico Alencar (PSOL) Erika Hilton (PSOL) 0.015
+Chico Alencar (PSOL) Fernanda Melchionna (PSOL) 0.085
+Chico Alencar (PSOL) Guilherme Boulos (PSOL) 0.034
+Chico Alencar (PSOL) Ivan Valente (PSOL) 0.036
+Chico Alencar (PSOL) Pastor Henrique Vieira (PSOL) 0.022
+Chico Alencar (PSOL) Professora Luciene Cavalcante (PSOL) 0.022
+Chico Alencar (PSOL) Talíria Petrone (PSOL) 0.000
+Chico Alencar (PSOL) Célia Xakriabá (PSOL) 0.025
+Delegada Adriana Accorsi (PT) José Guimarães (PT) 0.094
+Delegada Adriana Accorsi (PT) Josias Gomes (PT) 0.071
+Delegada Adriana Accorsi (PT) Airton Faleiro (PT) 0.065
+Delegada Adriana Accorsi (PT) Alfredinho (PT) 0.036
+Delegada Adriana Accorsi (PT) Ana Paula Lima (PT) 0.066
+Delegada Adriana Accorsi (PT) Ana Pimentel (PT) 0.060
+Delegada Adriana Accorsi (PT) Arlindo Chinaglia (PT) 0.012
+Delegada Adriana Accorsi (PT) Benedita da Silva (PT) 0.012
+Delegada Adriana Accorsi (PT) Bohn Gass (PT) 0.085
+Delegada Adriana Accorsi (PT) Carlos Zarattini (PT) 0.071
+Delegada Adriana Accorsi (PT) Carol Dartora (PT) 0.049
+Delegada Adriana Accorsi (PT) Denise Pessôa (PT) 0.086
+Delegada Adriana Accorsi (PT) Dilvanda Faro (PT) 0.059
+Delegada Adriana Accorsi (PT) Dimas Gadelha (PT) 0.059
+Delegada Adriana Accorsi (PT) Dr. Francisco (PT) 0.035
+Delegada Adriana Accorsi (PT) Florentino Neto (PT) 0.082
+Delegada Adriana Accorsi (PT) Ivoneide Caetano (PT) 0.041
+Delegada Adriana Accorsi (PT) Jack Rocha (PT) 0.059
+Delegada Adriana Accorsi (PT) João Daniel (PT) 0.025
+Delegada Adriana Accorsi (PT) Jorge Solla (PT) 0.049
+Delegada Adriana Accorsi (PT) José Airton Félix Cirilo (PT) 0.063
+Delegada Adriana Accorsi (PT) Joseildo Ramos (PT) 0.075
+Delegada Adriana Accorsi (PT) Kiko Celeguim (PT) 0.063
+Delegada Adriana Accorsi (PT) Leonardo Monteiro (PT) 0.051
+Delegada Adriana Accorsi (PT) Luizianne Lins (PT) 0.062
+Delegada Adriana Accorsi (PT) Marcon (PT) 0.049
+Delegada Adriana Accorsi (PT) Maria do Rosário (PT) 0.085
+Delegada Adriana Accorsi (PT) Merlong Solano (PT) 0.024
+Delegada Adriana Accorsi (PT) Natália Bonavides (PT) 0.074
+Delegada Adriana Accorsi (PT) Nilto Tatto (PT) 0.062
+Delegada Adriana Accorsi (PT) Odair Cunha (PT) 0.073
+Delegada Adriana Accorsi (PT) Padre João (PT) 0.047
+Delegada Adriana Accorsi (PT) Paulão (PT) 0.085
+Delegada Adriana Accorsi (PT) Paulo Guedes (PT) 0.099
+Delegada Adriana Accorsi (PT) Pedro Uczai (PT) 0.083
+Delegada Adriana Accorsi (PT) Reginaldo Lopes (PT) 0.076
+Delegada Adriana Accorsi (PT) Reginete Bispo (PT) 0.085
+Delegada Adriana Accorsi (PT) Reimont (PT) 0.047
+Delegada Adriana Accorsi (PT) Rogério Correia (PT) 0.047
+Delegada Adriana Accorsi (PT) Vander Loubet (PT) 0.060
+Delegada Adriana Accorsi (PT) Vicentinho (PT) 0.074
+Delegada Adriana Accorsi (PT) Washington Quaquá (PT) 0.082
+Delegada Adriana Accorsi (PT) Zé Neto (PT) 0.062
+Delegada Adriana Accorsi (PT) Zeca Dirceu (PT) 0.058
+Delegada Adriana Accorsi (PT) Fernando Mineiro (PT) 0.062
+Delegada Adriana Accorsi (PT) Juliana Cardoso (PT) 0.054
+Delegada Adriana Accorsi (PT) Tadeu Veneri (PT) 0.100
+Delegada Adriana Accorsi (PT) Welter (PT) 0.088
+Delegada Adriana Accorsi (PT) Dandara (PT) 0.095
+Denise Pessôa (PT) Alfredinho (PT) 0.099
+Denise Pessôa (PT) Arlindo Chinaglia (PT) 0.037
+Denise Pessôa (PT) Benedita da Silva (PT) 0.037
+Denise Pessôa (PT) Carlos Zarattini (PT) 0.074
+Denise Pessôa (PT) Delegada Adriana Accorsi (PT) 0.086
+Denise Pessôa (PT) Dilvanda Faro (PT) 0.086
+Denise Pessôa (PT) Dimas Gadelha (PT) 0.086
+Denise Pessôa (PT) Dr. Francisco (PT) 0.037
+Denise Pessôa (PT) Jack Rocha (PT) 0.062
+Denise Pessôa (PT) João Daniel (PT) 0.100
+Denise Pessôa (PT) Maria do Rosário (PT) 0.085
+Denise Pessôa (PT) Merlong Solano (PT) 0.049
+Denise Pessôa (PT) Padre João (PT) 0.074
+Denise Pessôa (PT) Pedro Uczai (PT) 0.099
+Denise Pessôa (PT) Reimont (PT) 0.074
+Denise Pessôa (PT) Rogério Correia (PT) 0.074
+Denise Pessôa (PT) Vicentinho (PT) 0.099
+Denise Pessôa (PT) Waldenor Pereira (PT) 0.077
+Denise Pessôa (PT) Alexandre Lindenmeyer (PT) 0.100
+Dilvanda Faro (PT) Josias Gomes (PT) 0.071
+Dilvanda Faro (PT) Airton Faleiro (PT) 0.026
+Dilvanda Faro (PT) Alfredinho (PT) 0.060
+Dilvanda Faro (PT) Ana Paula Lima (PT) 0.053
+Dilvanda Faro (PT) Ana Pimentel (PT) 0.071
+Dilvanda Faro (PT) Arlindo Chinaglia (PT) 0.035
+Dilvanda Faro (PT) Benedita da Silva (PT) 0.023
+Dilvanda Faro (PT) Bohn Gass (PT) 0.061
+Dilvanda Faro (PT) Camila Jara (PT) 0.098
+Dilvanda Faro (PT) Carlos Zarattini (PT) 0.071
+Dilvanda Faro (PT) Carol Dartora (PT) 0.037
+Dilvanda Faro (PT) Delegada Adriana Accorsi (PT) 0.059
+Dilvanda Faro (PT) Denise Pessôa (PT) 0.086
+Dilvanda Faro (PT) Dimas Gadelha (PT) 0.070
+Dilvanda Faro (PT) Dr. Francisco (PT) 0.047
+Dilvanda Faro (PT) Florentino Neto (PT) 0.094
+Dilvanda Faro (PT) Ivoneide Caetano (PT) 0.068
+Dilvanda Faro (PT) Jack Rocha (PT) 0.070
+Dilvanda Faro (PT) João Daniel (PT) 0.062
+Dilvanda Faro (PT) Jorge Solla (PT) 0.049
+Dilvanda Faro (PT) José Airton Félix Cirilo (PT) 0.063
+Dilvanda Faro (PT) Joseildo Ramos (PT) 0.088
+Dilvanda Faro (PT) Kiko Celeguim (PT) 0.051
+Dilvanda Faro (PT) Leonardo Monteiro (PT) 0.077
+Dilvanda Faro (PT) Luizianne Lins (PT) 0.062
+Dilvanda Faro (PT) Marcon (PT) 0.062
+Dilvanda Faro (PT) Maria do Rosário (PT) 0.099
+Dilvanda Faro (PT) Merlong Solano (PT) 0.023
+Dilvanda Faro (PT) Natália Bonavides (PT) 0.074
+Dilvanda Faro (PT) Nilto Tatto (PT) 0.062
+Dilvanda Faro (PT) Odair Cunha (PT) 0.085
+Dilvanda Faro (PT) Padre João (PT) 0.058
+Dilvanda Faro (PT) Paulão (PT) 0.085
+Dilvanda Faro (PT) Paulo Guedes (PT) 0.086
+Dilvanda Faro (PT) Pedro Uczai (PT) 0.095
+Dilvanda Faro (PT) Reginaldo Lopes (PT) 0.091
+Dilvanda Faro (PT) Reginete Bispo (PT) 0.070
+Dilvanda Faro (PT) Reimont (PT) 0.058
+Dilvanda Faro (PT) Rogério Correia (PT) 0.047
+Dilvanda Faro (PT) Vander Loubet (PT) 0.072
+Dilvanda Faro (PT) Vicentinho (PT) 0.074
+Dilvanda Faro (PT) Waldenor Pereira (PT) 0.058
+Dilvanda Faro (PT) Washington Quaquá (PT) 0.082
+Dilvanda Faro (PT) Zé Neto (PT) 0.062
+Dilvanda Faro (PT) Zeca Dirceu (PT) 0.072
+Dilvanda Faro (PT) Alexandre Lindenmeyer (PT) 0.100
+Dilvanda Faro (PT) Fernando Mineiro (PT) 0.075
+Dilvanda Faro (PT) Juliana Cardoso (PT) 0.068
+Dilvanda Faro (PT) Tadeu Veneri (PT) 0.075
+Dilvanda Faro (PT) Welter (PT) 0.088
+Dilvanda Faro (PT) Dandara (PT) 0.095
+Dilvanda Faro (PT) Luiza Erundina (PSOL) 0.077
+Dimas Gadelha (PT) Josias Gomes (PT) 0.060
+Dimas Gadelha (PT) Airton Faleiro (PT) 0.078
+Dimas Gadelha (PT) Alfredinho (PT) 0.060
+Dimas Gadelha (PT) Ana Paula Lima (PT) 0.092
+Dimas Gadelha (PT) Ana Pimentel (PT) 0.071
+Dimas Gadelha (PT) Arlindo Chinaglia (PT) 0.035
+Dimas Gadelha (PT) Benedita da Silva (PT) 0.035
+Dimas Gadelha (PT) Bohn Gass (PT) 0.061
+Dimas Gadelha (PT) Carlos Zarattini (PT) 0.059
+Dimas Gadelha (PT) Carol Dartora (PT) 0.062
+Dimas Gadelha (PT) Delegada Adriana Accorsi (PT) 0.059
+Dimas Gadelha (PT) Denise Pessôa (PT) 0.086
+Dimas Gadelha (PT) Dilvanda Faro (PT) 0.070
+Dimas Gadelha (PT) Dr. Francisco (PT) 0.047
+Dimas Gadelha (PT) Florentino Neto (PT) 0.082
+Dimas Gadelha (PT) Ivoneide Caetano (PT) 0.082
+Dimas Gadelha (PT) Jack Rocha (PT) 0.081
+Dimas Gadelha (PT) João Daniel (PT) 0.062
+Dimas Gadelha (PT) Jorge Solla (PT) 0.061
+Dimas Gadelha (PT) José Airton Félix Cirilo (PT) 0.048
+Dimas Gadelha (PT) Kiko Celeguim (PT) 0.063
+Dimas Gadelha (PT) Leonardo Monteiro (PT) 0.090
+Dimas Gadelha (PT) Luizianne Lins (PT) 0.049
+Dimas Gadelha (PT) Marcon (PT) 0.062
+Dimas Gadelha (PT) Maria do Rosário (PT) 0.056
+Dimas Gadelha (PT) Merlong Solano (PT) 0.047
+Dimas Gadelha (PT) Natália Bonavides (PT) 0.086
+Dimas Gadelha (PT) Nilto Tatto (PT) 0.075
+Dimas Gadelha (PT) Odair Cunha (PT) 0.061
+Dimas Gadelha (PT) Padre João (PT) 0.070
+Dimas Gadelha (PT) Paulão (PT) 0.098
+Dimas Gadelha (PT) Paulo Guedes (PT) 0.099
+Dimas Gadelha (PT) Pedro Uczai (PT) 0.095
+Dimas Gadelha (PT) Reginete Bispo (PT) 0.085
+Dimas Gadelha (PT) Reimont (PT) 0.047
+Dimas Gadelha (PT) Rogério Correia (PT) 0.081
+Dimas Gadelha (PT) Vander Loubet (PT) 0.072
+Dimas Gadelha (PT) Vicentinho (PT) 0.062
+Dimas Gadelha (PT) Washington Quaquá (PT) 0.033
+Dimas Gadelha (PT) Zé Neto (PT) 0.062
+Dimas Gadelha (PT) Zeca Dirceu (PT) 0.043
+Dimas Gadelha (PT) Alexandre Lindenmeyer (PT) 0.100
+Dimas Gadelha (PT) Fernando Mineiro (PT) 0.075
+Dimas Gadelha (PT) Juliana Cardoso (PT) 0.081
+Dimas Gadelha (PT) Tadeu Veneri (PT) 0.100
+Dimas Gadelha (PT) Welter (PT) 0.050
+Dimas Gadelha (PT) Luiza Erundina (PSOL) 0.077
+Dr. Francisco (PT) Josias Gomes (PT) 0.060
+Dr. Francisco (PT) Airton Faleiro (PT) 0.039
+Dr. Francisco (PT) Alfredinho (PT) 0.036
+Dr. Francisco (PT) Ana Paula Lima (PT) 0.039
+Dr. Francisco (PT) Ana Pimentel (PT) 0.060
+Dr. Francisco (PT) Arlindo Chinaglia (PT) 0.011
+Dr. Francisco (PT) Benedita da Silva (PT) 0.023
+Dr. Francisco (PT) Bohn Gass (PT) 0.037
+Dr. Francisco (PT) Camila Jara (PT) 0.085
+Dr. Francisco (PT) Carlos Zarattini (PT) 0.024
+Dr. Francisco (PT) Carol Dartora (PT) 0.025
+Dr. Francisco (PT) Delegada Adriana Accorsi (PT) 0.035
+Dr. Francisco (PT) Denise Pessôa (PT) 0.037
+Dr. Francisco (PT) Dilvanda Faro (PT) 0.047
+Dr. Francisco (PT) Dimas Gadelha (PT) 0.047
+Dr. Francisco (PT) Florentino Neto (PT) 0.082
+Dr. Francisco (PT) Ivoneide Caetano (PT) 0.027
+Dr. Francisco (PT) Jack Rocha (PT) 0.057
+Dr. Francisco (PT) Jilmar Tatto (PT) 0.089
+Dr. Francisco (PT) João Daniel (PT) 0.037
+Dr. Francisco (PT) Jorge Solla (PT) 0.049
+Dr. Francisco (PT) José Airton Félix Cirilo (PT) 0.048
+Dr. Francisco (PT) Joseildo Ramos (PT) 0.062
+Dr. Francisco (PT) Kiko Celeguim (PT) 0.051
+Dr. Francisco (PT) Leonardo Monteiro (PT) 0.051
+Dr. Francisco (PT) Luizianne Lins (PT) 0.049
+Dr. Francisco (PT) Marcon (PT) 0.049
+Dr. Francisco (PT) Maria do Rosário (PT) 0.056
+Dr. Francisco (PT) Merlong Solano (PT) 0.023
+Dr. Francisco (PT) Natália Bonavides (PT) 0.062
+Dr. Francisco (PT) Nilto Tatto (PT) 0.050
+Dr. Francisco (PT) Odair Cunha (PT) 0.073
+Dr. Francisco (PT) Padre João (PT) 0.057
+Dr. Francisco (PT) Paulão (PT) 0.061
+Dr. Francisco (PT) Paulo Guedes (PT) 0.086
+Dr. Francisco (PT) Pedro Uczai (PT) 0.060
+Dr. Francisco (PT) Reginaldo Lopes (PT) 0.061
+Dr. Francisco (PT) Reginete Bispo (PT) 0.070
+Dr. Francisco (PT) Reimont (PT) 0.034
+Dr. Francisco (PT) Rogério Correia (PT) 0.035
+Dr. Francisco (PT) Vander Loubet (PT) 0.060
+Dr. Francisco (PT) Vicentinho (PT) 0.025
+Dr. Francisco (PT) Waldenor Pereira (PT) 0.077
+Dr. Francisco (PT) Washington Quaquá (PT) 0.033
+Dr. Francisco (PT) Zé Neto (PT) 0.049
+Dr. Francisco (PT) Zeca Dirceu (PT) 0.014
+Dr. Francisco (PT) Alexandre Lindenmeyer (PT) 0.050
+Dr. Francisco (PT) Fernando Mineiro (PT) 0.062
+Dr. Francisco (PT) Juliana Cardoso (PT) 0.054
+Dr. Francisco (PT) Tadeu Veneri (PT) 0.062
+Dr. Francisco (PT) Welter (PT) 0.037
+Dr. Francisco (PT) Dandara (PT) 0.068
+Dr. Francisco (PT) Luiza Erundina (PSOL) 0.038
+Erika Hilton (PSOL) Chico Alencar (PSOL) 0.015
+Erika Hilton (PSOL) Erika Kokay (PT) 0.092
+Erika Hilton (PSOL) Guilherme Boulos (PSOL) 0.031
+Erika Hilton (PSOL) Ivan Valente (PSOL) 0.031
+Erika Hilton (PSOL) Pastor Henrique Vieira (PSOL) 0.031
+Erika Hilton (PSOL) Professora Luciene Cavalcante (PSOL) 0.015
+Erika Kokay (PT) Erika Hilton (PSOL) 0.092
+Erika Kokay (PT) Reginete Bispo (PT) 0.099
+Erika Kokay (PT) Waldenor Pereira (PT) 0.038
+Erika Kokay (PT) Luiza Erundina (PSOL) 0.077
+Fernanda Melchionna (PSOL) Chico Alencar (PSOL) 0.085
+Fernanda Melchionna (PSOL) Pastor Henrique Vieira (PSOL) 0.085
+Fernanda Melchionna (PSOL) Professora Luciene Cavalcante (PSOL) 0.073
+Florentino Neto (PT) Josias Gomes (PT) 0.083
+Florentino Neto (PT) Airton Faleiro (PT) 0.078
+Florentino Neto (PT) Alfredinho (PT) 0.071
+Florentino Neto (PT) Ana Paula Lima (PT) 0.092
+Florentino Neto (PT) Ana Pimentel (PT) 0.083
+Florentino Neto (PT) Arlindo Chinaglia (PT) 0.059
+Florentino Neto (PT) Benedita da Silva (PT) 0.047
+Florentino Neto (PT) Bohn Gass (PT) 0.098
+Florentino Neto (PT) Camila Jara (PT) 0.073
+Florentino Neto (PT) Carlos Zarattini (PT) 0.082
+Florentino Neto (PT) Carol Dartora (PT) 0.086
+Florentino Neto (PT) Delegada Adriana Accorsi (PT) 0.082
+Florentino Neto (PT) Dilvanda Faro (PT) 0.094
+Florentino Neto (PT) Dimas Gadelha (PT) 0.082
+Florentino Neto (PT) Dr. Francisco (PT) 0.082
+Florentino Neto (PT) Ivoneide Caetano (PT) 0.082
+Florentino Neto (PT) Jack Rocha (PT) 0.082
+Florentino Neto (PT) João Daniel (PT) 0.075
+Florentino Neto (PT) Jorge Solla (PT) 0.085
+Florentino Neto (PT) José Airton Félix Cirilo (PT) 0.079
+Florentino Neto (PT) Joseildo Ramos (PT) 0.100
+Florentino Neto (PT) Leonardo Monteiro (PT) 0.090
+Florentino Neto (PT) Luizianne Lins (PT) 0.086
+Florentino Neto (PT) Marcon (PT) 0.074
+Florentino Neto (PT) Merlong Solano (PT) 0.024
+Florentino Neto (PT) Natália Bonavides (PT) 0.086
+Florentino Neto (PT) Nilto Tatto (PT) 0.100
+Florentino Neto (PT) Odair Cunha (PT) 0.098
+Florentino Neto (PT) Padre João (PT) 0.071
+Florentino Neto (PT) Paulão (PT) 0.098
+Florentino Neto (PT) Paulo Guedes (PT) 0.086
+Florentino Neto (PT) Reimont (PT) 0.082
+Florentino Neto (PT) Rogério Correia (PT) 0.094
+Florentino Neto (PT) Vander Loubet (PT) 0.096
+Florentino Neto (PT) Vicentinho (PT) 0.099
+Florentino Neto (PT) Zé Neto (PT) 0.086
+Florentino Neto (PT) Zeca Dirceu (PT) 0.087
+Florentino Neto (PT) Fernando Mineiro (PT) 0.088
+Florentino Neto (PT) Juliana Cardoso (PT) 0.095
+Guilherme Boulos (PSOL) Chico Alencar (PSOL) 0.034
+Guilherme Boulos (PSOL) Erika Hilton (PSOL) 0.031
+Guilherme Boulos (PSOL) Ivan Valente (PSOL) 0.060
+Guilherme Boulos (PSOL) Pastor Henrique Vieira (PSOL) 0.034
+Guilherme Boulos (PSOL) Professora Luciene Cavalcante (PSOL) 0.045
+Guilherme Boulos (PSOL) Talíria Petrone (PSOL) 0.017
+Guilherme Boulos (PSOL) Célia Xakriabá (PSOL) 0.025
+Guilherme Boulos (PSOL) Luiza Erundina (PSOL) 0.077
+Ivan Valente (PSOL) Chico Alencar (PSOL) 0.036
+Ivan Valente (PSOL) Erika Hilton (PSOL) 0.031
+Ivan Valente (PSOL) Guilherme Boulos (PSOL) 0.060
+Ivan Valente (PSOL) Pastor Henrique Vieira (PSOL) 0.036
+Ivan Valente (PSOL) Professora Luciene Cavalcante (PSOL) 0.024
+Ivan Valente (PSOL) Talíria Petrone (PSOL) 0.100
+Ivan Valente (PSOL) Luiza Erundina (PSOL) 0.077
+Ivoneide Caetano (PT) Josias Gomes (PT) 0.096
+Ivoneide Caetano (PT) Alfredinho (PT) 0.068
+Ivoneide Caetano (PT) Ana Pimentel (PT) 0.096
+Ivoneide Caetano (PT) Arlindo Chinaglia (PT) 0.014
+Ivoneide Caetano (PT) Benedita da Silva (PT) 0.014
+Ivoneide Caetano (PT) Carlos Zarattini (PT) 0.068
+Ivoneide Caetano (PT) Delegada Adriana Accorsi (PT) 0.041
+Ivoneide Caetano (PT) Dilvanda Faro (PT) 0.068
+Ivoneide Caetano (PT) Dimas Gadelha (PT) 0.082
+Ivoneide Caetano (PT) Dr. Francisco (PT) 0.027
+Ivoneide Caetano (PT) Florentino Neto (PT) 0.082
+Ivoneide Caetano (PT) Jack Rocha (PT) 0.055
+Ivoneide Caetano (PT) Merlong Solano (PT) 0.027
+Ivoneide Caetano (PT) Padre João (PT) 0.055
+Ivoneide Caetano (PT) Pedro Uczai (PT) 0.096
+Ivoneide Caetano (PT) Reimont (PT) 0.068
+Ivoneide Caetano (PT) Rogério Correia (PT) 0.055
+Ivoneide Caetano (PT) Washington Quaquá (PT) 0.066
+Jack Rocha (PT) Josias Gomes (PT) 0.071
+Jack Rocha (PT) Airton Faleiro (PT) 0.052
+Jack Rocha (PT) Alfredinho (PT) 0.048
+Jack Rocha (PT) Ana Paula Lima (PT) 0.039
+Jack Rocha (PT) Ana Pimentel (PT) 0.036
+Jack Rocha (PT) Arlindo Chinaglia (PT) 0.046
+Jack Rocha (PT) Benedita da Silva (PT) 0.034
+Jack Rocha (PT) Bohn Gass (PT) 0.061
+Jack Rocha (PT) Carlos Zarattini (PT) 0.047
+Jack Rocha (PT) Carol Dartora (PT) 0.037
+Jack Rocha (PT) Delegada Adriana Accorsi (PT) 0.059
+Jack Rocha (PT) Denise Pessôa (PT) 0.062
+Jack Rocha (PT) Dilvanda Faro (PT) 0.070
+Jack Rocha (PT) Dimas Gadelha (PT) 0.081
+Jack Rocha (PT) Dr. Francisco (PT) 0.057
+Jack Rocha (PT) Florentino Neto (PT) 0.082
+Jack Rocha (PT) Ivoneide Caetano (PT) 0.055
+Jack Rocha (PT) João Daniel (PT) 0.025
+Jack Rocha (PT) Jorge Solla (PT) 0.061
+Jack Rocha (PT) José Airton Félix Cirilo (PT) 0.016
+Jack Rocha (PT) Joseildo Ramos (PT) 0.100
+Jack Rocha (PT) Kiko Celeguim (PT) 0.063
+Jack Rocha (PT) Leonardo Monteiro (PT) 0.038
+Jack Rocha (PT) Luizianne Lins (PT) 0.062
+Jack Rocha (PT) Marcon (PT) 0.074
+Jack Rocha (PT) Maria do Rosário (PT) 0.070
+Jack Rocha (PT) Merlong Solano (PT) 0.046
+Jack Rocha (PT) Natália Bonavides (PT) 0.025
+Jack Rocha (PT) Nilto Tatto (PT) 0.037
+Jack Rocha (PT) Odair Cunha (PT) 0.073
+Jack Rocha (PT) Padre João (PT) 0.057
+Jack Rocha (PT) Paulão (PT) 0.073
+Jack Rocha (PT) Paulo Guedes (PT) 0.086
+Jack Rocha (PT) Pedro Uczai (PT) 0.095
+Jack Rocha (PT) Reginaldo Lopes (PT) 0.030
+Jack Rocha (PT) Reginete Bispo (PT) 0.070
+Jack Rocha (PT) Reimont (PT) 0.080
+Jack Rocha (PT) Rogério Correia (PT) 0.058
+Jack Rocha (PT) Vander Loubet (PT) 0.072
+Jack Rocha (PT) Vicentinho (PT) 0.025
+Jack Rocha (PT) Waldenor Pereira (PT) 0.096
+Jack Rocha (PT) Washington Quaquá (PT) 0.098
+Jack Rocha (PT) Zé Neto (PT) 0.049
+Jack Rocha (PT) Zeca Dirceu (PT) 0.072
+Jack Rocha (PT) Alexandre Lindenmeyer (PT) 0.062
+Jack Rocha (PT) Fernando Mineiro (PT) 0.062
+Jack Rocha (PT) Gleisi Hoffmann (PT) 0.098
+Jack Rocha (PT) Juliana Cardoso (PT) 0.081
+Jack Rocha (PT) Tadeu Veneri (PT) 0.062
+Jack Rocha (PT) Welter (PT) 0.062
+Jack Rocha (PT) Dandara (PT) 0.054
+Jilmar Tatto (PT) Lindbergh Farias (PT) 0.089
+Jilmar Tatto (PT) Arlindo Chinaglia (PT) 0.089
+Jilmar Tatto (PT) Benedita da Silva (PT) 0.076
+Jilmar Tatto (PT) Dr. Francisco (PT) 0.089
+Jilmar Tatto (PT) Merlong Solano (PT) 0.038
+Jilmar Tatto (PT) Reimont (PT) 0.089
+Jilmar Tatto (PT) Rogério Correia (PT) 0.089
+João Daniel (PT) José Guimarães (PT) 0.088
+João Daniel (PT) Rubens Otoni (PT) 0.100
+João Daniel (PT) Josias Gomes (PT) 0.075
+João Daniel (PT) Airton Faleiro (PT) 0.091
+João Daniel (PT) Alfredinho (PT) 0.037
+João Daniel (PT) Ana Pimentel (PT) 0.025
+João Daniel (PT) Arlindo Chinaglia (PT) 0.012
+João Daniel (PT) Benedita da Silva (PT) 0.000
+João Daniel (PT) Bohn Gass (PT) 0.088
+João Daniel (PT) Carlos Zarattini (PT) 0.062
+João Daniel (PT) Carol Dartora (PT) 0.062
+João Daniel (PT) Delegada Adriana Accorsi (PT) 0.025
+João Daniel (PT) Denise Pessôa (PT) 0.100
+João Daniel (PT) Dilvanda Faro (PT) 0.062
+João Daniel (PT) Dimas Gadelha (PT) 0.062
+João Daniel (PT) Dr. Francisco (PT) 0.037
+João Daniel (PT) Florentino Neto (PT) 0.075
+João Daniel (PT) Jack Rocha (PT) 0.025
+João Daniel (PT) Jorge Solla (PT) 0.088
+João Daniel (PT) José Airton Félix Cirilo (PT) 0.095
+João Daniel (PT) Leonardo Monteiro (PT) 0.064
+João Daniel (PT) Marcon (PT) 0.088
+João Daniel (PT) Maria do Rosário (PT) 0.085
+João Daniel (PT) Merlong Solano (PT) 0.012
+João Daniel (PT) Natália Bonavides (PT) 0.088
+João Daniel (PT) Nilto Tatto (PT) 0.062
+João Daniel (PT) Odair Cunha (PT) 0.088
+João Daniel (PT) Padre João (PT) 0.025
+João Daniel (PT) Paulão (PT) 0.100
+João Daniel (PT) Pedro Uczai (PT) 0.100
+João Daniel (PT) Reginaldo Lopes (PT) 0.091
+João Daniel (PT) Reimont (PT) 0.050
+João Daniel (PT) Rogério Correia (PT) 0.037
+João Daniel (PT) Vander Loubet (PT) 0.088
+João Daniel (PT) Vicentinho (PT) 0.075
+João Daniel (PT) Gleisi Hoffmann (PT) 0.100
+João Daniel (PT) Juliana Cardoso (PT) 0.095
+Jorge Solla (PT) José Guimarães (PT) 0.061
+Jorge Solla (PT) Josias Gomes (PT) 0.085
+Jorge Solla (PT) Alfredinho (PT) 0.024
+Jorge Solla (PT) Ana Pimentel (PT) 0.061
+Jorge Solla (PT) Arlindo Chinaglia (PT) 0.024
+Jorge Solla (PT) Benedita da Silva (PT) 0.012
+Jorge Solla (PT) Carlos Zarattini (PT) 0.073
+Jorge Solla (PT) Carol Dartora (PT) 0.074
+Jorge Solla (PT) Delegada Adriana Accorsi (PT) 0.049
+Jorge Solla (PT) Dilvanda Faro (PT) 0.049
+Jorge Solla (PT) Dimas Gadelha (PT) 0.061
+Jorge Solla (PT) Dr. Francisco (PT) 0.049
+Jorge Solla (PT) Florentino Neto (PT) 0.085
+Jorge Solla (PT) Jack Rocha (PT) 0.061
+Jorge Solla (PT) João Daniel (PT) 0.088
+Jorge Solla (PT) José Airton Félix Cirilo (PT) 0.063
+Jorge Solla (PT) Joseildo Ramos (PT) 0.100
+Jorge Solla (PT) Kiko Celeguim (PT) 0.063
+Jorge Solla (PT) Luizianne Lins (PT) 0.062
+Jorge Solla (PT) Marcon (PT) 0.074
+Jorge Solla (PT) Maria do Rosário (PT) 0.042
+Jorge Solla (PT) Merlong Solano (PT) 0.024
+Jorge Solla (PT) Odair Cunha (PT) 0.098
+Jorge Solla (PT) Padre João (PT) 0.049
+Jorge Solla (PT) Paulo Guedes (PT) 0.086
+Jorge Solla (PT) Pedro Uczai (PT) 0.085
+Jorge Solla (PT) Reginaldo Lopes (PT) 0.045
+Jorge Solla (PT) Reginete Bispo (PT) 0.085
+Jorge Solla (PT) Reimont (PT) 0.024
+Jorge Solla (PT) Rogério Correia (PT) 0.049
+Jorge Solla (PT) Vander Loubet (PT) 0.037
+Jorge Solla (PT) Vicentinho (PT) 0.099
+Jorge Solla (PT) Waldenor Pereira (PT) 0.058
+Jorge Solla (PT) Zé Neto (PT) 0.049
+Jorge Solla (PT) Zeca Dirceu (PT) 0.072
+Jorge Solla (PT) Fernando Mineiro (PT) 0.075
+Jorge Solla (PT) Juliana Cardoso (PT) 0.095
+Jorge Solla (PT) Welter (PT) 0.088
+Jorge Solla (PT) Luiza Erundina (PSOL) 0.077
+José Airton Félix Cirilo (PT) José Guimarães (PT) 0.095
+José Airton Félix Cirilo (PT) Lindbergh Farias (PT) 0.095
+José Airton Félix Cirilo (PT) Rubens Otoni (PT) 0.079
+José Airton Félix Cirilo (PT) Josias Gomes (PT) 0.032
+José Airton Félix Cirilo (PT) Alfredinho (PT) 0.048
+José Airton Félix Cirilo (PT) Ana Pimentel (PT) 0.063
+José Airton Félix Cirilo (PT) Arlindo Chinaglia (PT) 0.032
+José Airton Félix Cirilo (PT) Benedita da Silva (PT) 0.000
+José Airton Félix Cirilo (PT) Carlos Zarattini (PT) 0.048
+José Airton Félix Cirilo (PT) Carol Dartora (PT) 0.095
+José Airton Félix Cirilo (PT) Delegada Adriana Accorsi (PT) 0.063
+José Airton Félix Cirilo (PT) Dilvanda Faro (PT) 0.063
+José Airton Félix Cirilo (PT) Dimas Gadelha (PT) 0.048
+José Airton Félix Cirilo (PT) Dr. Francisco (PT) 0.048
+José Airton Félix Cirilo (PT) Florentino Neto (PT) 0.079
+José Airton Félix Cirilo (PT) Jack Rocha (PT) 0.016
+José Airton Félix Cirilo (PT) João Daniel (PT) 0.095
+José Airton Félix Cirilo (PT) Jorge Solla (PT) 0.063
+José Airton Félix Cirilo (PT) Kiko Celeguim (PT) 0.095
+José Airton Félix Cirilo (PT) Luizianne Lins (PT) 0.063
+José Airton Félix Cirilo (PT) Marcon (PT) 0.079
+José Airton Félix Cirilo (PT) Merlong Solano (PT) 0.016
+José Airton Félix Cirilo (PT) Natália Bonavides (PT) 0.095
+José Airton Félix Cirilo (PT) Odair Cunha (PT) 0.079
+José Airton Félix Cirilo (PT) Padre João (PT) 0.032
+José Airton Félix Cirilo (PT) Paulão (PT) 0.095
+José Airton Félix Cirilo (PT) Paulo Guedes (PT) 0.095
+José Airton Félix Cirilo (PT) Reimont (PT) 0.048
+José Airton Félix Cirilo (PT) Rogério Correia (PT) 0.063
+José Airton Félix Cirilo (PT) Vander Loubet (PT) 0.048
+José Airton Félix Cirilo (PT) Vicentinho (PT) 0.095
+José Airton Félix Cirilo (PT) Zé Neto (PT) 0.079
+José Airton Félix Cirilo (PT) Gleisi Hoffmann (PT) 0.079
+Joseildo Ramos (PT) José Guimarães (PT) 0.088
+Joseildo Ramos (PT) Lindbergh Farias (PT) 0.088
+Joseildo Ramos (PT) Alfredinho (PT) 0.062
+Joseildo Ramos (PT) Arlindo Chinaglia (PT) 0.050
+Joseildo Ramos (PT) Benedita da Silva (PT) 0.037
+Joseildo Ramos (PT) Carlos Zarattini (PT) 0.100
+Joseildo Ramos (PT) Delegada Adriana Accorsi (PT) 0.075
+Joseildo Ramos (PT) Dilvanda Faro (PT) 0.088
+Joseildo Ramos (PT) Dr. Francisco (PT) 0.062
+Joseildo Ramos (PT) Florentino Neto (PT) 0.100
+Joseildo Ramos (PT) Jack Rocha (PT) 0.100
+Joseildo Ramos (PT) Jorge Solla (PT) 0.100
+Joseildo Ramos (PT) Marcon (PT) 0.088
+Joseildo Ramos (PT) Merlong Solano (PT) 0.000
+Joseildo Ramos (PT) Nilto Tatto (PT) 0.100
+Joseildo Ramos (PT) Padre João (PT) 0.075
+Joseildo Ramos (PT) Pedro Uczai (PT) 0.100
+Joseildo Ramos (PT) Reimont (PT) 0.050
+Joseildo Ramos (PT) Rogério Correia (PT) 0.062
+Joseildo Ramos (PT) Washington Quaquá (PT) 0.098
+Joseildo Ramos (PT) Zé Neto (PT) 0.100
+Joseildo Ramos (PT) Zeca Dirceu (PT) 0.087
+Kiko Celeguim (PT) José Guimarães (PT) 0.089
+Kiko Celeguim (PT) Lindbergh Farias (PT) 0.089
+Kiko Celeguim (PT) Josias Gomes (PT) 0.076
+Kiko Celeguim (PT) Alfredinho (PT) 0.051
+Kiko Celeguim (PT) Ana Pimentel (PT) 0.076
+Kiko Celeguim (PT) Arlindo Chinaglia (PT) 0.038
+Kiko Celeguim (PT) Benedita da Silva (PT) 0.025
+Kiko Celeguim (PT) Carlos Zarattini (PT) 0.076
+Kiko Celeguim (PT) Delegada Adriana Accorsi (PT) 0.063
+Kiko Celeguim (PT) Dilvanda Faro (PT) 0.051
+Kiko Celeguim (PT) Dimas Gadelha (PT) 0.063
+Kiko Celeguim (PT) Dr. Francisco (PT) 0.051
+Kiko Celeguim (PT) Jack Rocha (PT) 0.063
+Kiko Celeguim (PT) Jorge Solla (PT) 0.063
+Kiko Celeguim (PT) José Airton Félix Cirilo (PT) 0.095
+Kiko Celeguim (PT) Luizianne Lins (PT) 0.076
+Kiko Celeguim (PT) Merlong Solano (PT) 0.038
+Kiko Celeguim (PT) Odair Cunha (PT) 0.076
+Kiko Celeguim (PT) Padre João (PT) 0.051
+Kiko Celeguim (PT) Pedro Uczai (PT) 0.089
+Kiko Celeguim (PT) Reginete Bispo (PT) 0.099
+Kiko Celeguim (PT) Reimont (PT) 0.051
+Kiko Celeguim (PT) Rogério Correia (PT) 0.051
+Kiko Celeguim (PT) Vander Loubet (PT) 0.089
+Kiko Celeguim (PT) Zé Neto (PT) 0.076
+Leonardo Monteiro (PT) Alfredinho (PT) 0.064
+Leonardo Monteiro (PT) Ana Pimentel (PT) 0.051
+Leonardo Monteiro (PT) Arlindo Chinaglia (PT) 0.051
+Leonardo Monteiro (PT) Benedita da Silva (PT) 0.026
+Leonardo Monteiro (PT) Carlos Zarattini (PT) 0.064
+Leonardo Monteiro (PT) Carol Dartora (PT) 0.090
+Leonardo Monteiro (PT) Delegada Adriana Accorsi (PT) 0.051
+Leonardo Monteiro (PT) Dilvanda Faro (PT) 0.077
+Leonardo Monteiro (PT) Dimas Gadelha (PT) 0.090
+Leonardo Monteiro (PT) Dr. Francisco (PT) 0.051
+Leonardo Monteiro (PT) Florentino Neto (PT) 0.090
+Leonardo Monteiro (PT) Jack Rocha (PT) 0.038
+Leonardo Monteiro (PT) João Daniel (PT) 0.064
+Leonardo Monteiro (PT) Merlong Solano (PT) 0.013
+Leonardo Monteiro (PT) Nilto Tatto (PT) 0.064
+Leonardo Monteiro (PT) Padre João (PT) 0.064
+Leonardo Monteiro (PT) Paulão (PT) 0.090
+Leonardo Monteiro (PT) Reimont (PT) 0.038
+Leonardo Monteiro (PT) Rogério Correia (PT) 0.051
+Leonardo Monteiro (PT) Vicentinho (PT) 0.077
+Luizianne Lins (PT) José Guimarães (PT) 0.062
+Luizianne Lins (PT) Lindbergh Farias (PT) 0.099
+Luizianne Lins (PT) Josias Gomes (PT) 0.049
+Luizianne Lins (PT) Alfredinho (PT) 0.049
+Luizianne Lins (PT) Ana Pimentel (PT) 0.074
+Luizianne Lins (PT) Arlindo Chinaglia (PT) 0.025
+Luizianne Lins (PT) Benedita da Silva (PT) 0.012
+Luizianne Lins (PT) Bohn Gass (PT) 0.099
+Luizianne Lins (PT) Carlos Zarattini (PT) 0.086
+Luizianne Lins (PT) Carol Dartora (PT) 0.099
+Luizianne Lins (PT) Delegada Adriana Accorsi (PT) 0.062
+Luizianne Lins (PT) Dilvanda Faro (PT) 0.062
+Luizianne Lins (PT) Dimas Gadelha (PT) 0.049
+Luizianne Lins (PT) Dr. Francisco (PT) 0.049
+Luizianne Lins (PT) Florentino Neto (PT) 0.086
+Luizianne Lins (PT) Jack Rocha (PT) 0.062
+Luizianne Lins (PT) Jorge Solla (PT) 0.062
+Luizianne Lins (PT) José Airton Félix Cirilo (PT) 0.063
+Luizianne Lins (PT) Kiko Celeguim (PT) 0.076
+Luizianne Lins (PT) Marcon (PT) 0.086
+Luizianne Lins (PT) Merlong Solano (PT) 0.025
+Luizianne Lins (PT) Odair Cunha (PT) 0.099
+Luizianne Lins (PT) Padre João (PT) 0.049
+Luizianne Lins (PT) Paulo Guedes (PT) 0.099
+Luizianne Lins (PT) Pedro Uczai (PT) 0.086
+Luizianne Lins (PT) Reginaldo Lopes (PT) 0.091
+Luizianne Lins (PT) Reginete Bispo (PT) 0.085
+Luizianne Lins (PT) Reimont (PT) 0.037
+Luizianne Lins (PT) Rogério Correia (PT) 0.062
+Luizianne Lins (PT) Vander Loubet (PT) 0.062
+Luizianne Lins (PT) Zé Neto (PT) 0.086
+Luizianne Lins (PT) Fernando Mineiro (PT) 0.088
+Luizianne Lins (PT) Tadeu Veneri (PT) 0.100
+Luizianne Lins (PT) Welter (PT) 0.100
+Marcon (PT) José Guimarães (PT) 0.074
+Marcon (PT) Josias Gomes (PT) 0.062
+Marcon (PT) Alfredinho (PT) 0.049
+Marcon (PT) Ana Pimentel (PT) 0.086
+Marcon (PT) Arlindo Chinaglia (PT) 0.037
+Marcon (PT) Benedita da Silva (PT) 0.025
+Marcon (PT) Carlos Zarattini (PT) 0.062
+Marcon (PT) Carol Dartora (PT) 0.086
+Marcon (PT) Delegada Adriana Accorsi (PT) 0.049
+Marcon (PT) Dilvanda Faro (PT) 0.062
+Marcon (PT) Dimas Gadelha (PT) 0.062
+Marcon (PT) Dr. Francisco (PT) 0.049
+Marcon (PT) Florentino Neto (PT) 0.074
+Marcon (PT) Jack Rocha (PT) 0.074
+Marcon (PT) João Daniel (PT) 0.088
+Marcon (PT) Jorge Solla (PT) 0.074
+Marcon (PT) José Airton Félix Cirilo (PT) 0.079
+Marcon (PT) Joseildo Ramos (PT) 0.088
+Marcon (PT) Luizianne Lins (PT) 0.086
+Marcon (PT) Merlong Solano (PT) 0.025
+Marcon (PT) Odair Cunha (PT) 0.099
+Marcon (PT) Padre João (PT) 0.049
+Marcon (PT) Paulão (PT) 0.086
+Marcon (PT) Pedro Uczai (PT) 0.086
+Marcon (PT) Reginete Bispo (PT) 0.099
+Marcon (PT) Reimont (PT) 0.025
+Marcon (PT) Rogério Correia (PT) 0.037
+Marcon (PT) Vander Loubet (PT) 0.086
+Marcon (PT) Washington Quaquá (PT) 0.098
+Marcon (PT) Zé Neto (PT) 0.099
+Marcon (PT) Zeca Dirceu (PT) 0.072
+Marcon (PT) Dandara (PT) 0.095
+Marcon (PT) Fernando Mineiro (PT) 0.075
+Marcon (PT) Juliana Cardoso (PT) 0.095
+Marcon (PT) Welter (PT) 0.100
+Maria do Rosário (PT) José Guimarães (PT) 0.099
+Maria do Rosário (PT) Alfredinho (PT) 0.042
+Maria do Rosário (PT) Ana Pimentel (PT) 0.056
+Maria do Rosário (PT) Arlindo Chinaglia (PT) 0.042
+Maria do Rosário (PT) Benedita da Silva (PT) 0.042
+Maria do Rosário (PT) Carlos Zarattini (PT) 0.085
+Maria do Rosário (PT) Carol Dartora (PT) 0.070
+Maria do Rosário (PT) Delegada Adriana Accorsi (PT) 0.085
+Maria do Rosário (PT) Denise Pessôa (PT) 0.085
+Maria do Rosário (PT) Dilvanda Faro (PT) 0.099
+Maria do Rosário (PT) Dimas Gadelha (PT) 0.056
+Maria do Rosário (PT) Dr. Francisco (PT) 0.056
+Maria do Rosário (PT) Jack Rocha (PT) 0.070
+Maria do Rosário (PT) João Daniel (PT) 0.085
+Maria do Rosário (PT) Jorge Solla (PT) 0.042
+Maria do Rosário (PT) Merlong Solano (PT) 0.056
+Maria do Rosário (PT) Padre João (PT) 0.085
+Maria do Rosário (PT) Paulo Guedes (PT) 0.099
+Maria do Rosário (PT) Pedro Uczai (PT) 0.099
+Maria do Rosário (PT) Reimont (PT) 0.042
+Maria do Rosário (PT) Rogério Correia (PT) 0.099
+Maria do Rosário (PT) Vander Loubet (PT) 0.085
+Maria do Rosário (PT) Vicentinho (PT) 0.070
+Maria do Rosário (PT) Zé Neto (PT) 0.099
+Merlong Solano (PT) Lindbergh Farias (PT) 0.087
+Merlong Solano (PT) Josias Gomes (PT) 0.024
+Merlong Solano (PT) Airton Faleiro (PT) 0.026
+Merlong Solano (PT) Alfredinho (PT) 0.024
+Merlong Solano (PT) Ana Paula Lima (PT) 0.026
+Merlong Solano (PT) Ana Pimentel (PT) 0.036
+Merlong Solano (PT) Arlindo Chinaglia (PT) 0.023
+Merlong Solano (PT) Benedita da Silva (PT) 0.011
+Merlong Solano (PT) Bohn Gass (PT) 0.024
+Merlong Solano (PT) Camila Jara (PT) 0.012
+Merlong Solano (PT) Carlos Zarattini (PT) 0.035
+Merlong Solano (PT) Carol Dartora (PT) 0.012
+Merlong Solano (PT) Delegada Adriana Accorsi (PT) 0.024
+Merlong Solano (PT) Denise Pessôa (PT) 0.049
+Merlong Solano (PT) Dilvanda Faro (PT) 0.023
+Merlong Solano (PT) Dimas Gadelha (PT) 0.047
+Merlong Solano (PT) Dr. Francisco (PT) 0.023
+Merlong Solano (PT) Florentino Neto (PT) 0.024
+Merlong Solano (PT) Ivoneide Caetano (PT) 0.027
+Merlong Solano (PT) Jack Rocha (PT) 0.046
+Merlong Solano (PT) Jilmar Tatto (PT) 0.038
+Merlong Solano (PT) João Daniel (PT) 0.012
+Merlong Solano (PT) Jorge Solla (PT) 0.024
+Merlong Solano (PT) José Airton Félix Cirilo (PT) 0.016
+Merlong Solano (PT) Joseildo Ramos (PT) 0.000
+Merlong Solano (PT) Kiko Celeguim (PT) 0.038
+Merlong Solano (PT) Leonardo Monteiro (PT) 0.013
+Merlong Solano (PT) Luizianne Lins (PT) 0.025
+Merlong Solano (PT) Marcon (PT) 0.025
+Merlong Solano (PT) Maria do Rosário (PT) 0.056
+Merlong Solano (PT) Natália Bonavides (PT) 0.037
+Merlong Solano (PT) Nilto Tatto (PT) 0.000
+Merlong Solano (PT) Odair Cunha (PT) 0.049
+Merlong Solano (PT) Padre João (PT) 0.056
+Merlong Solano (PT) Paulão (PT) 0.037
+Merlong Solano (PT) Paulo Guedes (PT) 0.025
+Merlong Solano (PT) Pedro Uczai (PT) 0.060
+Merlong Solano (PT) Reginaldo Lopes (PT) 0.061
+Merlong Solano (PT) Reginete Bispo (PT) 0.042
+Merlong Solano (PT) Reimont (PT) 0.023
+Merlong Solano (PT) Rogério Correia (PT) 0.023
+Merlong Solano (PT) Valmir Assunção (PT) 0.063
+Merlong Solano (PT) Vander Loubet (PT) 0.036
+Merlong Solano (PT) Vicentinho (PT) 0.037
+Merlong Solano (PT) Waldenor Pereira (PT) 0.058
+Merlong Solano (PT) Washington Quaquá (PT) 0.033
+Merlong Solano (PT) Zé Neto (PT) 0.025
+Merlong Solano (PT) Zeca Dirceu (PT) 0.029
+Merlong Solano (PT) Alexandre Lindenmeyer (PT) 0.050
+Merlong Solano (PT) Fernando Mineiro (PT) 0.037
+Merlong Solano (PT) Gleisi Hoffmann (PT) 0.073
+Merlong Solano (PT) Juliana Cardoso (PT) 0.014
+Merlong Solano (PT) Tadeu Veneri (PT) 0.037
+Merlong Solano (PT) Welter (PT) 0.050
+Merlong Solano (PT) Dandara (PT) 0.041
+Natália Bonavides (PT) José Guimarães (PT) 0.099
+Natália Bonavides (PT) Lindbergh Farias (PT) 0.099
+Natália Bonavides (PT) Josias Gomes (PT) 0.099
+Natália Bonavides (PT) Alfredinho (PT) 0.074
+Natália Bonavides (PT) Ana Pimentel (PT) 0.062
+Natália Bonavides (PT) Arlindo Chinaglia (PT) 0.037
+Natália Bonavides (PT) Benedita da Silva (PT) 0.025
+Natália Bonavides (PT) Bohn Gass (PT) 0.099
+Natália Bonavides (PT) Carlos Zarattini (PT) 0.086
+Natália Bonavides (PT) Carol Dartora (PT) 0.099
+Natália Bonavides (PT) Delegada Adriana Accorsi (PT) 0.074
+Natália Bonavides (PT) Dilvanda Faro (PT) 0.074
+Natália Bonavides (PT) Dimas Gadelha (PT) 0.086
+Natália Bonavides (PT) Dr. Francisco (PT) 0.062
+Natália Bonavides (PT) Florentino Neto (PT) 0.086
+Natália Bonavides (PT) Jack Rocha (PT) 0.025
+Natália Bonavides (PT) João Daniel (PT) 0.088
+Natália Bonavides (PT) José Airton Félix Cirilo (PT) 0.095
+Natália Bonavides (PT) Merlong Solano (PT) 0.037
+Natália Bonavides (PT) Nilto Tatto (PT) 0.088
+Natália Bonavides (PT) Padre João (PT) 0.037
+Natália Bonavides (PT) Reginaldo Lopes (PT) 0.091
+Natália Bonavides (PT) Reimont (PT) 0.074
+Natália Bonavides (PT) Rogério Correia (PT) 0.074
+Natália Bonavides (PT) Vicentinho (PT) 0.062
+Natália Bonavides (PT) Zeca Dirceu (PT) 0.087
+Nilto Tatto (PT) Lindbergh Farias (PT) 0.088
+Nilto Tatto (PT) Josias Gomes (PT) 0.088
+Nilto Tatto (PT) Airton Faleiro (PT) 0.091
+Nilto Tatto (PT) Alfredinho (PT) 0.075
+Nilto Tatto (PT) Ana Pimentel (PT) 0.050
+Nilto Tatto (PT) Arlindo Chinaglia (PT) 0.037
+Nilto Tatto (PT) Benedita da Silva (PT) 0.012
+Nilto Tatto (PT) Bohn Gass (PT) 0.088
+Nilto Tatto (PT) Carlos Zarattini (PT) 0.075
+Nilto Tatto (PT) Carol Dartora (PT) 0.075
+Nilto Tatto (PT) Delegada Adriana Accorsi (PT) 0.062
+Nilto Tatto (PT) Dilvanda Faro (PT) 0.062
+Nilto Tatto (PT) Dimas Gadelha (PT) 0.075
+Nilto Tatto (PT) Dr. Francisco (PT) 0.050
+Nilto Tatto (PT) Florentino Neto (PT) 0.100
+Nilto Tatto (PT) Jack Rocha (PT) 0.037
+Nilto Tatto (PT) João Daniel (PT) 0.062
+Nilto Tatto (PT) Joseildo Ramos (PT) 0.100
+Nilto Tatto (PT) Leonardo Monteiro (PT) 0.064
+Nilto Tatto (PT) Merlong Solano (PT) 0.000
+Nilto Tatto (PT) Natália Bonavides (PT) 0.088
+Nilto Tatto (PT) Odair Cunha (PT) 0.100
+Nilto Tatto (PT) Padre João (PT) 0.050
+Nilto Tatto (PT) Paulão (PT) 0.100
+Nilto Tatto (PT) Reimont (PT) 0.050
+Nilto Tatto (PT) Rogério Correia (PT) 0.050
+Nilto Tatto (PT) Vicentinho (PT) 0.088
+Nilto Tatto (PT) Gleisi Hoffmann (PT) 0.100
+Odair Cunha (PT) José Guimarães (PT) 0.085
+Odair Cunha (PT) Josias Gomes (PT) 0.085
+Odair Cunha (PT) Alfredinho (PT) 0.061
+Odair Cunha (PT) Ana Pimentel (PT) 0.073
+Odair Cunha (PT) Arlindo Chinaglia (PT) 0.049
+Odair Cunha (PT) Benedita da Silva (PT) 0.037
+Odair Cunha (PT) Carlos Zarattini (PT) 0.085
+Odair Cunha (PT) Carol Dartora (PT) 0.099
+Odair Cunha (PT) Delegada Adriana Accorsi (PT) 0.073
+Odair Cunha (PT) Dilvanda Faro (PT) 0.085
+Odair Cunha (PT) Dimas Gadelha (PT) 0.061
+Odair Cunha (PT) Dr. Francisco (PT) 0.073
+Odair Cunha (PT) Florentino Neto (PT) 0.098
+Odair Cunha (PT) Jack Rocha (PT) 0.073
+Odair Cunha (PT) João Daniel (PT) 0.088
+Odair Cunha (PT) Jorge Solla (PT) 0.098
+Odair Cunha (PT) José Airton Félix Cirilo (PT) 0.079
+Odair Cunha (PT) Kiko Celeguim (PT) 0.076
+Odair Cunha (PT) Luizianne Lins (PT) 0.099
+Odair Cunha (PT) Marcon (PT) 0.099
+Odair Cunha (PT) Merlong Solano (PT) 0.049
+Odair Cunha (PT) Nilto Tatto (PT) 0.100
+Odair Cunha (PT) Padre João (PT) 0.061
+Odair Cunha (PT) Reimont (PT) 0.073
+Odair Cunha (PT) Rogério Correia (PT) 0.073
+Odair Cunha (PT) Washington Quaquá (PT) 0.098
+Odair Cunha (PT) Zé Neto (PT) 0.099
+Odair Cunha (PT) Zeca Dirceu (PT) 0.087
+Padre João (PT) Josias Gomes (PT) 0.060
+Padre João (PT) Airton Faleiro (PT) 0.052
+Padre João (PT) Alfredinho (PT) 0.036
+Padre João (PT) Ana Paula Lima (PT) 0.066
+Padre João (PT) Ana Pimentel (PT) 0.048
+Padre João (PT) Arlindo Chinaglia (PT) 0.045
+Padre João (PT) Benedita da Silva (PT) 0.045
+Padre João (PT) Bohn Gass (PT) 0.061
+Padre João (PT) Camila Jara (PT) 0.098
+Padre João (PT) Carlos Zarattini (PT) 0.059
+Padre João (PT) Carol Dartora (PT) 0.037
+Padre João (PT) Delegada Adriana Accorsi (PT) 0.047
+Padre João (PT) Denise Pessôa (PT) 0.074
+Padre João (PT) Dilvanda Faro (PT) 0.058
+Padre João (PT) Dimas Gadelha (PT) 0.070
+Padre João (PT) Dr. Francisco (PT) 0.057
+Padre João (PT) Florentino Neto (PT) 0.071
+Padre João (PT) Ivoneide Caetano (PT) 0.055
+Padre João (PT) Jack Rocha (PT) 0.057
+Padre João (PT) João Daniel (PT) 0.025
+Padre João (PT) Jorge Solla (PT) 0.049
+Padre João (PT) José Airton Félix Cirilo (PT) 0.032
+Padre João (PT) Joseildo Ramos (PT) 0.075
+Padre João (PT) Kiko Celeguim (PT) 0.051
+Padre João (PT) Leonardo Monteiro (PT) 0.064
+Padre João (PT) Luizianne Lins (PT) 0.049
+Padre João (PT) Marcon (PT) 0.049
+Padre João (PT) Maria do Rosário (PT) 0.085
+Padre João (PT) Merlong Solano (PT) 0.056
+Padre João (PT) Natália Bonavides (PT) 0.037
+Padre João (PT) Nilto Tatto (PT) 0.050
+Padre João (PT) Odair Cunha (PT) 0.061
+Padre João (PT) Paulão (PT) 0.037
+Padre João (PT) Paulo Guedes (PT) 0.062
+Padre João (PT) Pedro Uczai (PT) 0.071
+Padre João (PT) Reginaldo Lopes (PT) 0.076
+Padre João (PT) Reginete Bispo (PT) 0.085
+Padre João (PT) Reimont (PT) 0.069
+Padre João (PT) Rogério Correia (PT) 0.058
+Padre João (PT) Valmir Assunção (PT) 0.063
+Padre João (PT) Vander Loubet (PT) 0.060
+Padre João (PT) Vicentinho (PT) 0.037
+Padre João (PT) Waldenor Pereira (PT) 0.077
+Padre João (PT) Washington Quaquá (PT) 0.082
+Padre João (PT) Zé Neto (PT) 0.049
+Padre João (PT) Zeca Dirceu (PT) 0.043
+Padre João (PT) Fernando Mineiro (PT) 0.050
+Padre João (PT) Gleisi Hoffmann (PT) 0.085
+Padre João (PT) Juliana Cardoso (PT) 0.054
+Padre João (PT) Tadeu Veneri (PT) 0.088
+Padre João (PT) Welter (PT) 0.088
+Padre João (PT) Dandara (PT) 0.068
+Padre João (PT) Luiza Erundina (PSOL) 0.077
+Pastor Henrique Vieira (PSOL) Chico Alencar (PSOL) 0.022
+Pastor Henrique Vieira (PSOL) Erika Hilton (PSOL) 0.031
+Pastor Henrique Vieira (PSOL) Fernanda Melchionna (PSOL) 0.085
+Pastor Henrique Vieira (PSOL) Guilherme Boulos (PSOL) 0.034
+Pastor Henrique Vieira (PSOL) Ivan Valente (PSOL) 0.036
+Pastor Henrique Vieira (PSOL) Professora Luciene Cavalcante (PSOL) 0.054
+Pastor Henrique Vieira (PSOL) Talíria Petrone (PSOL) 0.033
+Pastor Henrique Vieira (PSOL) Waldenor Pereira (PT) 0.096
+Pastor Henrique Vieira (PSOL) Célia Xakriabá (PSOL) 0.025
+Pastor Henrique Vieira (PSOL) Luiza Erundina (PSOL) 0.077
+Paulão (PT) Alfredinho (PT) 0.073
+Paulão (PT) Ana Pimentel (PT) 0.098
+Paulão (PT) Arlindo Chinaglia (PT) 0.061
+Paulão (PT) Benedita da Silva (PT) 0.037
+Paulão (PT) Carlos Zarattini (PT) 0.061
+Paulão (PT) Delegada Adriana Accorsi (PT) 0.085
+Paulão (PT) Dilvanda Faro (PT) 0.085
+Paulão (PT) Dimas Gadelha (PT) 0.098
+Paulão (PT) Dr. Francisco (PT) 0.061
+Paulão (PT) Florentino Neto (PT) 0.098
+Paulão (PT) Jack Rocha (PT) 0.073
+Paulão (PT) João Daniel (PT) 0.100
+Paulão (PT) José Airton Félix Cirilo (PT) 0.095
+Paulão (PT) Leonardo Monteiro (PT) 0.090
+Paulão (PT) Marcon (PT) 0.086
+Paulão (PT) Merlong Solano (PT) 0.037
+Paulão (PT) Nilto Tatto (PT) 0.100
+Paulão (PT) Padre João (PT) 0.037
+Paulão (PT) Reimont (PT) 0.061
+Paulão (PT) Rogério Correia (PT) 0.073
+Paulão (PT) Washington Quaquá (PT) 0.098
+Paulão (PT) Fernando Mineiro (PT) 0.100
+Paulo Guedes (PT) Lindbergh Farias (PT) 0.086
+Paulo Guedes (PT) Josias Gomes (PT) 0.099
+Paulo Guedes (PT) Alfredinho (PT) 0.074
+Paulo Guedes (PT) Arlindo Chinaglia (PT) 0.062
+Paulo Guedes (PT) Benedita da Silva (PT) 0.049
+Paulo Guedes (PT) Carol Dartora (PT) 0.086
+Paulo Guedes (PT) Delegada Adriana Accorsi (PT) 0.099
+Paulo Guedes (PT) Dilvanda Faro (PT) 0.086
+Paulo Guedes (PT) Dimas Gadelha (PT) 0.099
+Paulo Guedes (PT) Dr. Francisco (PT) 0.086
+Paulo Guedes (PT) Florentino Neto (PT) 0.086
+Paulo Guedes (PT) Jack Rocha (PT) 0.086
+Paulo Guedes (PT) Jorge Solla (PT) 0.086
+Paulo Guedes (PT) José Airton Félix Cirilo (PT) 0.095
+Paulo Guedes (PT) Luizianne Lins (PT) 0.099
+Paulo Guedes (PT) Maria do Rosário (PT) 0.099
+Paulo Guedes (PT) Merlong Solano (PT) 0.025
+Paulo Guedes (PT) Padre João (PT) 0.062
+Paulo Guedes (PT) Reginaldo Lopes (PT) 0.091
+Paulo Guedes (PT) Reimont (PT) 0.074
+Paulo Guedes (PT) Rogério Correia (PT) 0.086
+Paulo Guedes (PT) Waldenor Pereira (PT) 0.096
+Paulo Guedes (PT) Zé Neto (PT) 0.099
+Paulo Guedes (PT) Zeca Dirceu (PT) 0.087
+Pedro Uczai (PT) Alfredinho (PT) 0.071
+Pedro Uczai (PT) Arlindo Chinaglia (PT) 0.036
+Pedro Uczai (PT) Benedita da Silva (PT) 0.048
+Pedro Uczai (PT) Carlos Zarattini (PT) 0.095
+Pedro Uczai (PT) Carol Dartora (PT) 0.086
+Pedro Uczai (PT) Delegada Adriana Accorsi (PT) 0.083
+Pedro Uczai (PT) Denise Pessôa (PT) 0.099
+Pedro Uczai (PT) Dilvanda Faro (PT) 0.095
+Pedro Uczai (PT) Dimas Gadelha (PT) 0.095
+Pedro Uczai (PT) Dr. Francisco (PT) 0.060
+Pedro Uczai (PT) Ivoneide Caetano (PT) 0.096
+Pedro Uczai (PT) Jack Rocha (PT) 0.095
+Pedro Uczai (PT) João Daniel (PT) 0.100
+Pedro Uczai (PT) Jorge Solla (PT) 0.085
+Pedro Uczai (PT) Joseildo Ramos (PT) 0.100
+Pedro Uczai (PT) Kiko Celeguim (PT) 0.089
+Pedro Uczai (PT) Luizianne Lins (PT) 0.086
+Pedro Uczai (PT) Marcon (PT) 0.086
+Pedro Uczai (PT) Maria do Rosário (PT) 0.099
+Pedro Uczai (PT) Merlong Solano (PT) 0.060
+Pedro Uczai (PT) Padre João (PT) 0.071
+Pedro Uczai (PT) Reginete Bispo (PT) 0.070
+Pedro Uczai (PT) Reimont (PT) 0.071
+Pedro Uczai (PT) Rogério Correia (PT) 0.095
+Pedro Uczai (PT) Zé Neto (PT) 0.099
+Pedro Uczai (PT) Zeca Dirceu (PT) 0.087
+Pedro Uczai (PT) Fernando Mineiro (PT) 0.062
+Professora Luciene Cavalcante (PSOL) Chico Alencar (PSOL) 0.022
+Professora Luciene Cavalcante (PSOL) Erika Hilton (PSOL) 0.015
+Professora Luciene Cavalcante (PSOL) Fernanda Melchionna (PSOL) 0.073
+Professora Luciene Cavalcante (PSOL) Guilherme Boulos (PSOL) 0.045
+Professora Luciene Cavalcante (PSOL) Ivan Valente (PSOL) 0.024
+Professora Luciene Cavalcante (PSOL) Pastor Henrique Vieira (PSOL) 0.054
+Professora Luciene Cavalcante (PSOL) Talíria Petrone (PSOL) 0.017
+Professora Luciene Cavalcante (PSOL) Waldenor Pereira (PT) 0.096
+Professora Luciene Cavalcante (PSOL) Célia Xakriabá (PSOL) 0.025
+Professora Luciene Cavalcante (PSOL) Luiza Erundina (PSOL) 0.077
+Reginaldo Lopes (PT) José Guimarães (PT) 0.091
+Reginaldo Lopes (PT) Alfredinho (PT) 0.045
+Reginaldo Lopes (PT) Ana Pimentel (PT) 0.076
+Reginaldo Lopes (PT) Arlindo Chinaglia (PT) 0.061
+Reginaldo Lopes (PT) Benedita da Silva (PT) 0.061
+Reginaldo Lopes (PT) Carlos Zarattini (PT) 0.091
+Reginaldo Lopes (PT) Carol Dartora (PT) 0.076
+Reginaldo Lopes (PT) Delegada Adriana Accorsi (PT) 0.076
+Reginaldo Lopes (PT) Dilvanda Faro (PT) 0.091
+Reginaldo Lopes (PT) Dr. Francisco (PT) 0.061
+Reginaldo Lopes (PT) Jack Rocha (PT) 0.030
+Reginaldo Lopes (PT) João Daniel (PT) 0.091
+Reginaldo Lopes (PT) Jorge Solla (PT) 0.045
+Reginaldo Lopes (PT) Luizianne Lins (PT) 0.091
+Reginaldo Lopes (PT) Merlong Solano (PT) 0.061
+Reginaldo Lopes (PT) Natália Bonavides (PT) 0.091
+Reginaldo Lopes (PT) Padre João (PT) 0.076
+Reginaldo Lopes (PT) Paulo Guedes (PT) 0.091
+Reginaldo Lopes (PT) Reimont (PT) 0.061
+Reginaldo Lopes (PT) Rogério Correia (PT) 0.061
+Reginaldo Lopes (PT) Vander Loubet (PT) 0.091
+Reginaldo Lopes (PT) Vicentinho (PT) 0.091
+Reginaldo Lopes (PT) Zé Neto (PT) 0.091
+Reginaldo Lopes (PT) Tadeu Veneri (PT) 0.091
+Reginete Bispo (PT) Josias Gomes (PT) 0.099
+Reginete Bispo (PT) Alfredinho (PT) 0.070
+Reginete Bispo (PT) Ana Pimentel (PT) 0.099
+Reginete Bispo (PT) Arlindo Chinaglia (PT) 0.056
+Reginete Bispo (PT) Benedita da Silva (PT) 0.056
+Reginete Bispo (PT) Bohn Gass (PT) 0.070
+Reginete Bispo (PT) Carlos Zarattini (PT) 0.070
+Reginete Bispo (PT) Delegada Adriana Accorsi (PT) 0.085
+Reginete Bispo (PT) Dilvanda Faro (PT) 0.070
+Reginete Bispo (PT) Dimas Gadelha (PT) 0.085
+Reginete Bispo (PT) Dr. Francisco (PT) 0.070
+Reginete Bispo (PT) Erika Kokay (PT) 0.099
+Reginete Bispo (PT) Jack Rocha (PT) 0.070
+Reginete Bispo (PT) Jorge Solla (PT) 0.085
+Reginete Bispo (PT) Kiko Celeguim (PT) 0.099
+Reginete Bispo (PT) Luizianne Lins (PT) 0.085
+Reginete Bispo (PT) Marcon (PT) 0.099
+Reginete Bispo (PT) Merlong Solano (PT) 0.042
+Reginete Bispo (PT) Padre João (PT) 0.085
+Reginete Bispo (PT) Pedro Uczai (PT) 0.070
+Reginete Bispo (PT) Reimont (PT) 0.028
+Reginete Bispo (PT) Rogério Correia (PT) 0.085
+Reginete Bispo (PT) Zé Neto (PT) 0.085
+Reginete Bispo (PT) Fernando Mineiro (PT) 0.099
+Reimont (PT) José Guimarães (PT) 0.092
+Reimont (PT) Josias Gomes (PT) 0.071
+Reimont (PT) Airton Faleiro (PT) 0.052
+Reimont (PT) Alfredinho (PT) 0.024
+Reimont (PT) Ana Paula Lima (PT) 0.066
+Reimont (PT) Ana Pimentel (PT) 0.060
+Reimont (PT) Arlindo Chinaglia (PT) 0.034
+Reimont (PT) Benedita da Silva (PT) 0.034
+Reimont (PT) Bohn Gass (PT) 0.037
+Reimont (PT) Camila Jara (PT) 0.098
+Reimont (PT) Carlos Zarattini (PT) 0.035
+Reimont (PT) Carol Dartora (PT) 0.037
+Reimont (PT) Delegada Adriana Accorsi (PT) 0.047
+Reimont (PT) Denise Pessôa (PT) 0.074
+Reimont (PT) Dilvanda Faro (PT) 0.058
+Reimont (PT) Dimas Gadelha (PT) 0.047
+Reimont (PT) Dr. Francisco (PT) 0.034
+Reimont (PT) Florentino Neto (PT) 0.082
+Reimont (PT) Ivoneide Caetano (PT) 0.068
+Reimont (PT) Jack Rocha (PT) 0.080
+Reimont (PT) Jilmar Tatto (PT) 0.089
+Reimont (PT) João Daniel (PT) 0.050
+Reimont (PT) Jorge Solla (PT) 0.024
+Reimont (PT) José Airton Félix Cirilo (PT) 0.048
+Reimont (PT) Joseildo Ramos (PT) 0.050
+Reimont (PT) Kiko Celeguim (PT) 0.051
+Reimont (PT) Leonardo Monteiro (PT) 0.038
+Reimont (PT) Luizianne Lins (PT) 0.037
+Reimont (PT) Marcon (PT) 0.025
+Reimont (PT) Maria do Rosário (PT) 0.042
+Reimont (PT) Merlong Solano (PT) 0.023
+Reimont (PT) Natália Bonavides (PT) 0.074
+Reimont (PT) Nilto Tatto (PT) 0.050
+Reimont (PT) Odair Cunha (PT) 0.073
+Reimont (PT) Padre João (PT) 0.069
+Reimont (PT) Paulão (PT) 0.061
+Reimont (PT) Paulo Guedes (PT) 0.074
+Reimont (PT) Pedro Uczai (PT) 0.071
+Reimont (PT) Reginaldo Lopes (PT) 0.061
+Reimont (PT) Reginete Bispo (PT) 0.028
+Reimont (PT) Rogério Correia (PT) 0.058
+Reimont (PT) Valmir Assunção (PT) 0.089
+Reimont (PT) Vander Loubet (PT) 0.048
+Reimont (PT) Vicentinho (PT) 0.037
+Reimont (PT) Waldenor Pereira (PT) 0.077
+Reimont (PT) Washington Quaquá (PT) 0.033
+Reimont (PT) Zé Neto (PT) 0.037
+Reimont (PT) Zeca Dirceu (PT) 0.014
+Reimont (PT) Alexandre Lindenmeyer (PT) 0.075
+Reimont (PT) Fernando Mineiro (PT) 0.037
+Reimont (PT) Juliana Cardoso (PT) 0.041
+Reimont (PT) Tadeu Veneri (PT) 0.075
+Reimont (PT) Welter (PT) 0.025
+Reimont (PT) Dandara (PT) 0.068
+Reimont (PT) Luiza Erundina (PSOL) 0.038
+Rogério Correia (PT) Josias Gomes (PT) 0.071
+Rogério Correia (PT) Airton Faleiro (PT) 0.052
+Rogério Correia (PT) Alfredinho (PT) 0.060
+Rogério Correia (PT) Ana Paula Lima (PT) 0.066
+Rogério Correia (PT) Ana Pimentel (PT) 0.071
+Rogério Correia (PT) Arlindo Chinaglia (PT) 0.035
+Rogério Correia (PT) Benedita da Silva (PT) 0.023
+Rogério Correia (PT) Bohn Gass (PT) 0.049
+Rogério Correia (PT) Camila Jara (PT) 0.098
+Rogério Correia (PT) Carlos Zarattini (PT) 0.059
+Rogério Correia (PT) Carol Dartora (PT) 0.037
+Rogério Correia (PT) Delegada Adriana Accorsi (PT) 0.047
+Rogério Correia (PT) Denise Pessôa (PT) 0.074
+Rogério Correia (PT) Dilvanda Faro (PT) 0.047
+Rogério Correia (PT) Dimas Gadelha (PT) 0.081
+Rogério Correia (PT) Dr. Francisco (PT) 0.035
+Rogério Correia (PT) Florentino Neto (PT) 0.094
+Rogério Correia (PT) Ivoneide Caetano (PT) 0.055
+Rogério Correia (PT) Jack Rocha (PT) 0.058
+Rogério Correia (PT) Jilmar Tatto (PT) 0.089
+Rogério Correia (PT) João Daniel (PT) 0.037
+Rogério Correia (PT) Jorge Solla (PT) 0.049
+Rogério Correia (PT) José Airton Félix Cirilo (PT) 0.063
+Rogério Correia (PT) Joseildo Ramos (PT) 0.062
+Rogério Correia (PT) Kiko Celeguim (PT) 0.051
+Rogério Correia (PT) Leonardo Monteiro (PT) 0.051
+Rogério Correia (PT) Luizianne Lins (PT) 0.062
+Rogério Correia (PT) Marcon (PT) 0.037
+Rogério Correia (PT) Maria do Rosário (PT) 0.099
+Rogério Correia (PT) Merlong Solano (PT) 0.023
+Rogério Correia (PT) Natália Bonavides (PT) 0.074
+Rogério Correia (PT) Nilto Tatto (PT) 0.050
+Rogério Correia (PT) Odair Cunha (PT) 0.073
+Rogério Correia (PT) Padre João (PT) 0.058
+Rogério Correia (PT) Paulão (PT) 0.073
+Rogério Correia (PT) Paulo Guedes (PT) 0.086
+Rogério Correia (PT) Pedro Uczai (PT) 0.095
+Rogério Correia (PT) Reginaldo Lopes (PT) 0.061
+Rogério Correia (PT) Reginete Bispo (PT) 0.085
+Rogério Correia (PT) Reimont (PT) 0.058
+Rogério Correia (PT) Vander Loubet (PT) 0.072
+Rogério Correia (PT) Vicentinho (PT) 0.062
+Rogério Correia (PT) Waldenor Pereira (PT) 0.096
+Rogério Correia (PT) Washington Quaquá (PT) 0.066
+Rogério Correia (PT) Zé Neto (PT) 0.049
+Rogério Correia (PT) Zeca Dirceu (PT) 0.043
+Rogério Correia (PT) Alexandre Lindenmeyer (PT) 0.088
+Rogério Correia (PT) Fernando Mineiro (PT) 0.075
+Rogério Correia (PT) Juliana Cardoso (PT) 0.054
+Rogério Correia (PT) Tadeu Veneri (PT) 0.062
+Rogério Correia (PT) Welter (PT) 0.075
+Rogério Correia (PT) Dandara (PT) 0.054
+Rogério Correia (PT) Luiza Erundina (PSOL) 0.077
+Talíria Petrone (PSOL) Chico Alencar (PSOL) 0.000
+Talíria Petrone (PSOL) Guilherme Boulos (PSOL) 0.017
+Talíria Petrone (PSOL) Ivan Valente (PSOL) 0.100
+Talíria Petrone (PSOL) Pastor Henrique Vieira (PSOL) 0.033
+Talíria Petrone (PSOL) Professora Luciene Cavalcante (PSOL) 0.017
+Talíria Petrone (PSOL) Célia Xakriabá (PSOL) 0.100
+Valmir Assunção (PT) Arlindo Chinaglia (PT) 0.089
+Valmir Assunção (PT) Benedita da Silva (PT) 0.076
+Valmir Assunção (PT) Merlong Solano (PT) 0.063
+Valmir Assunção (PT) Padre João (PT) 0.063
+Valmir Assunção (PT) Reimont (PT) 0.089
+Vander Loubet (PT) José Guimarães (PT) 0.084
+Vander Loubet (PT) Lindbergh Farias (PT) 0.096
+Vander Loubet (PT) Josias Gomes (PT) 0.096
+Vander Loubet (PT) Alfredinho (PT) 0.060
+Vander Loubet (PT) Ana Pimentel (PT) 0.072
+Vander Loubet (PT) Arlindo Chinaglia (PT) 0.036
+Vander Loubet (PT) Benedita da Silva (PT) 0.024
+Vander Loubet (PT) Carlos Zarattini (PT) 0.084
+Vander Loubet (PT) Carol Dartora (PT) 0.099
+Vander Loubet (PT) Delegada Adriana Accorsi (PT) 0.060
+Vander Loubet (PT) Dilvanda Faro (PT) 0.072
+Vander Loubet (PT) Dimas Gadelha (PT) 0.072
+Vander Loubet (PT) Dr. Francisco (PT) 0.060
+Vander Loubet (PT) Florentino Neto (PT) 0.096
+Vander Loubet (PT) Jack Rocha (PT) 0.072
+Vander Loubet (PT) João Daniel (PT) 0.088
+Vander Loubet (PT) Jorge Solla (PT) 0.037
+Vander Loubet (PT) José Airton Félix Cirilo (PT) 0.048
+Vander Loubet (PT) Kiko Celeguim (PT) 0.089
+Vander Loubet (PT) Luizianne Lins (PT) 0.062
+Vander Loubet (PT) Marcon (PT) 0.086
+Vander Loubet (PT) Maria do Rosário (PT) 0.085
+Vander Loubet (PT) Merlong Solano (PT) 0.036
+Vander Loubet (PT) Padre João (PT) 0.060
+Vander Loubet (PT) Reginaldo Lopes (PT) 0.091
+Vander Loubet (PT) Reimont (PT) 0.048
+Vander Loubet (PT) Rogério Correia (PT) 0.072
+Vander Loubet (PT) Vicentinho (PT) 0.099
+Vander Loubet (PT) Waldenor Pereira (PT) 0.077
+Vander Loubet (PT) Zé Neto (PT) 0.086
+Vander Loubet (PT) Fernando Mineiro (PT) 0.088
+Vander Loubet (PT) Juliana Cardoso (PT) 0.081
+Vander Loubet (PT) Welter (PT) 0.100
+Vander Loubet (PT) Luiza Erundina (PSOL) 0.077
+Vicentinho (PT) José Guimarães (PT) 0.099
+Vicentinho (PT) Josias Gomes (PT) 0.099
+Vicentinho (PT) Airton Faleiro (PT) 0.091
+Vicentinho (PT) Alfredinho (PT) 0.062
+Vicentinho (PT) Ana Pimentel (PT) 0.049
+Vicentinho (PT) Arlindo Chinaglia (PT) 0.025
+Vicentinho (PT) Benedita da Silva (PT) 0.025
+Vicentinho (PT) Bohn Gass (PT) 0.074
+Vicentinho (PT) Carlos Zarattini (PT) 0.049
+Vicentinho (PT) Carol Dartora (PT) 0.086
+Vicentinho (PT) Delegada Adriana Accorsi (PT) 0.074
+Vicentinho (PT) Denise Pessôa (PT) 0.099
+Vicentinho (PT) Dilvanda Faro (PT) 0.074
+Vicentinho (PT) Dimas Gadelha (PT) 0.062
+Vicentinho (PT) Dr. Francisco (PT) 0.025
+Vicentinho (PT) Florentino Neto (PT) 0.099
+Vicentinho (PT) Jack Rocha (PT) 0.025
+Vicentinho (PT) João Daniel (PT) 0.075
+Vicentinho (PT) Jorge Solla (PT) 0.099
+Vicentinho (PT) José Airton Félix Cirilo (PT) 0.095
+Vicentinho (PT) Leonardo Monteiro (PT) 0.077
+Vicentinho (PT) Maria do Rosário (PT) 0.070
+Vicentinho (PT) Merlong Solano (PT) 0.037
+Vicentinho (PT) Natália Bonavides (PT) 0.062
+Vicentinho (PT) Nilto Tatto (PT) 0.088
+Vicentinho (PT) Padre João (PT) 0.037
+Vicentinho (PT) Reginaldo Lopes (PT) 0.091
+Vicentinho (PT) Reimont (PT) 0.037
+Vicentinho (PT) Rogério Correia (PT) 0.062
+Vicentinho (PT) Vander Loubet (PT) 0.099
+Vicentinho (PT) Washington Quaquá (PT) 0.098
+Vicentinho (PT) Zé Neto (PT) 0.099
+Vicentinho (PT) Zeca Dirceu (PT) 0.072
+Vicentinho (PT) Welter (PT) 0.100
+Vicentinho (PT) Luiza Erundina (PSOL) 0.038
+Waldenor Pereira (PT) José Guimarães (PT) 0.096
+Waldenor Pereira (PT) Alfredinho (PT) 0.077
+Waldenor Pereira (PT) Arlindo Chinaglia (PT) 0.077
+Waldenor Pereira (PT) Benedita da Silva (PT) 0.058
+Waldenor Pereira (PT) Denise Pessôa (PT) 0.077
+Waldenor Pereira (PT) Dilvanda Faro (PT) 0.058
+Waldenor Pereira (PT) Dr. Francisco (PT) 0.077
+Waldenor Pereira (PT) Erika Kokay (PT) 0.038
+Waldenor Pereira (PT) Jack Rocha (PT) 0.096
+Waldenor Pereira (PT) Jorge Solla (PT) 0.058
+Waldenor Pereira (PT) Merlong Solano (PT) 0.058
+Waldenor Pereira (PT) Padre João (PT) 0.077
+Waldenor Pereira (PT) Pastor Henrique Vieira (PSOL) 0.096
+Waldenor Pereira (PT) Paulo Guedes (PT) 0.096
+Waldenor Pereira (PT) Professora Luciene Cavalcante (PSOL) 0.096
+Waldenor Pereira (PT) Reimont (PT) 0.077
+Waldenor Pereira (PT) Rogério Correia (PT) 0.096
+Waldenor Pereira (PT) Vander Loubet (PT) 0.077
+Waldenor Pereira (PT) Zé Neto (PT) 0.096
+Washington Quaquá (PT) José Guimarães (PT) 0.082
+Washington Quaquá (PT) Rubens Otoni (PT) 0.098
+Washington Quaquá (PT) Alfredinho (PT) 0.082
+Washington Quaquá (PT) Ana Pimentel (PT) 0.098
+Washington Quaquá (PT) Arlindo Chinaglia (PT) 0.049
+Washington Quaquá (PT) Benedita da Silva (PT) 0.033
+Washington Quaquá (PT) Carlos Zarattini (PT) 0.049
+Washington Quaquá (PT) Delegada Adriana Accorsi (PT) 0.082
+Washington Quaquá (PT) Dilvanda Faro (PT) 0.082
+Washington Quaquá (PT) Dimas Gadelha (PT) 0.033
+Washington Quaquá (PT) Dr. Francisco (PT) 0.033
+Washington Quaquá (PT) Ivoneide Caetano (PT) 0.066
+Washington Quaquá (PT) Jack Rocha (PT) 0.098
+Washington Quaquá (PT) Joseildo Ramos (PT) 0.098
+Washington Quaquá (PT) Marcon (PT) 0.098
+Washington Quaquá (PT) Merlong Solano (PT) 0.033
+Washington Quaquá (PT) Odair Cunha (PT) 0.098
+Washington Quaquá (PT) Padre João (PT) 0.082
+Washington Quaquá (PT) Paulão (PT) 0.098
+Washington Quaquá (PT) Reimont (PT) 0.033
+Washington Quaquá (PT) Rogério Correia (PT) 0.066
+Washington Quaquá (PT) Vicentinho (PT) 0.098
+Washington Quaquá (PT) Luiza Erundina (PSOL) 0.077
+Zé Neto (PT) José Guimarães (PT) 0.049
+Zé Neto (PT) Josias Gomes (PT) 0.099
+Zé Neto (PT) Alfredinho (PT) 0.037
+Zé Neto (PT) Ana Pimentel (PT) 0.074
+Zé Neto (PT) Arlindo Chinaglia (PT) 0.037
+Zé Neto (PT) Benedita da Silva (PT) 0.025
+Zé Neto (PT) Carlos Zarattini (PT) 0.062
+Zé Neto (PT) Carol Dartora (PT) 0.099
+Zé Neto (PT) Delegada Adriana Accorsi (PT) 0.062
+Zé Neto (PT) Dilvanda Faro (PT) 0.062
+Zé Neto (PT) Dimas Gadelha (PT) 0.062
+Zé Neto (PT) Dr. Francisco (PT) 0.049
+Zé Neto (PT) Florentino Neto (PT) 0.086
+Zé Neto (PT) Jack Rocha (PT) 0.049
+Zé Neto (PT) Jorge Solla (PT) 0.049
+Zé Neto (PT) José Airton Félix Cirilo (PT) 0.079
+Zé Neto (PT) Joseildo Ramos (PT) 0.100
+Zé Neto (PT) Kiko Celeguim (PT) 0.076
+Zé Neto (PT) Luizianne Lins (PT) 0.086
+Zé Neto (PT) Marcon (PT) 0.099
+Zé Neto (PT) Maria do Rosário (PT) 0.099
+Zé Neto (PT) Merlong Solano (PT) 0.025
+Zé Neto (PT) Odair Cunha (PT) 0.099
+Zé Neto (PT) Padre João (PT) 0.049
+Zé Neto (PT) Paulo Guedes (PT) 0.099
+Zé Neto (PT) Pedro Uczai (PT) 0.099
+Zé Neto (PT) Reginaldo Lopes (PT) 0.091
+Zé Neto (PT) Reginete Bispo (PT) 0.085
+Zé Neto (PT) Reimont (PT) 0.037
+Zé Neto (PT) Rogério Correia (PT) 0.049
+Zé Neto (PT) Vander Loubet (PT) 0.086
+Zé Neto (PT) Vicentinho (PT) 0.099
+Zé Neto (PT) Waldenor Pereira (PT) 0.096
+Zé Neto (PT) Zeca Dirceu (PT) 0.072
+Zé Neto (PT) Fernando Mineiro (PT) 0.088
+Zé Neto (PT) Welter (PT) 0.100
+Zeca Dirceu (PT) José Guimarães (PT) 0.043
+Zeca Dirceu (PT) Josias Gomes (PT) 0.087
+Zeca Dirceu (PT) Alfredinho (PT) 0.029
+Zeca Dirceu (PT) Ana Pimentel (PT) 0.087
+Zeca Dirceu (PT) Arlindo Chinaglia (PT) 0.014
+Zeca Dirceu (PT) Benedita da Silva (PT) 0.029
+Zeca Dirceu (PT) Bohn Gass (PT) 0.087
+Zeca Dirceu (PT) Carlos Zarattini (PT) 0.058
+Zeca Dirceu (PT) Carol Dartora (PT) 0.072
+Zeca Dirceu (PT) Delegada Adriana Accorsi (PT) 0.058
+Zeca Dirceu (PT) Dilvanda Faro (PT) 0.072
+Zeca Dirceu (PT) Dimas Gadelha (PT) 0.043
+Zeca Dirceu (PT) Dr. Francisco (PT) 0.014
+Zeca Dirceu (PT) Florentino Neto (PT) 0.087
+Zeca Dirceu (PT) Jack Rocha (PT) 0.072
+Zeca Dirceu (PT) Jorge Solla (PT) 0.072
+Zeca Dirceu (PT) Joseildo Ramos (PT) 0.087
+Zeca Dirceu (PT) Marcon (PT) 0.072
+Zeca Dirceu (PT) Merlong Solano (PT) 0.029
+Zeca Dirceu (PT) Natália Bonavides (PT) 0.087
+Zeca Dirceu (PT) Odair Cunha (PT) 0.087
+Zeca Dirceu (PT) Padre João (PT) 0.043
+Zeca Dirceu (PT) Paulo Guedes (PT) 0.087
+Zeca Dirceu (PT) Pedro Uczai (PT) 0.087
+Zeca Dirceu (PT) Reimont (PT) 0.014
+Zeca Dirceu (PT) Rogério Correia (PT) 0.043
+Zeca Dirceu (PT) Vicentinho (PT) 0.072
+Zeca Dirceu (PT) Zé Neto (PT) 0.072
+Zeca Dirceu (PT) Welter (PT) 0.072
+Alexandre Lindenmeyer (PT) Arlindo Chinaglia (PT) 0.062
+Alexandre Lindenmeyer (PT) Benedita da Silva (PT) 0.062
+Alexandre Lindenmeyer (PT) Bohn Gass (PT) 0.100
+Alexandre Lindenmeyer (PT) Carlos Zarattini (PT) 0.100
+Alexandre Lindenmeyer (PT) Denise Pessôa (PT) 0.100
+Alexandre Lindenmeyer (PT) Dilvanda Faro (PT) 0.100
+Alexandre Lindenmeyer (PT) Dimas Gadelha (PT) 0.100
+Alexandre Lindenmeyer (PT) Dr. Francisco (PT) 0.050
+Alexandre Lindenmeyer (PT) Jack Rocha (PT) 0.062
+Alexandre Lindenmeyer (PT) Merlong Solano (PT) 0.050
+Alexandre Lindenmeyer (PT) Reimont (PT) 0.075
+Alexandre Lindenmeyer (PT) Rogério Correia (PT) 0.088
+Fernando Mineiro (PT) José Guimarães (PT) 0.088
+Fernando Mineiro (PT) Josias Gomes (PT) 0.075
+Fernando Mineiro (PT) Alfredinho (PT) 0.050
+Fernando Mineiro (PT) Ana Pimentel (PT) 0.088
+Fernando Mineiro (PT) Arlindo Chinaglia (PT) 0.037
+Fernando Mineiro (PT) Benedita da Silva (PT) 0.025
+Fernando Mineiro (PT) Carlos Zarattini (PT) 0.062
+Fernando Mineiro (PT) Delegada Adriana Accorsi (PT) 0.062
+Fernando Mineiro (PT) Dilvanda Faro (PT) 0.075
+Fernando Mineiro (PT) Dimas Gadelha (PT) 0.075
+Fernando Mineiro (PT) Dr. Francisco (PT) 0.062
+Fernando Mineiro (PT) Florentino Neto (PT) 0.088
+Fernando Mineiro (PT) Jack Rocha (PT) 0.062
+Fernando Mineiro (PT) Jorge Solla (PT) 0.075
+Fernando Mineiro (PT) Luizianne Lins (PT) 0.088
+Fernando Mineiro (PT) Marcon (PT) 0.075
+Fernando Mineiro (PT) Merlong Solano (PT) 0.037
+Fernando Mineiro (PT) Padre João (PT) 0.050
+Fernando Mineiro (PT) Paulão (PT) 0.100
+Fernando Mineiro (PT) Pedro Uczai (PT) 0.062
+Fernando Mineiro (PT) Reginete Bispo (PT) 0.099
+Fernando Mineiro (PT) Reimont (PT) 0.037
+Fernando Mineiro (PT) Rogério Correia (PT) 0.075
+Fernando Mineiro (PT) Vander Loubet (PT) 0.088
+Fernando Mineiro (PT) Zé Neto (PT) 0.088
+Fernando Mineiro (PT) Juliana Cardoso (PT) 0.095
+Gleisi Hoffmann (PT) Ana Pimentel (PT) 0.098
+Gleisi Hoffmann (PT) Arlindo Chinaglia (PT) 0.085
+Gleisi Hoffmann (PT) Benedita da Silva (PT) 0.061
+Gleisi Hoffmann (PT) Jack Rocha (PT) 0.098
+Gleisi Hoffmann (PT) João Daniel (PT) 0.100
+Gleisi Hoffmann (PT) José Airton Félix Cirilo (PT) 0.079
+Gleisi Hoffmann (PT) Merlong Solano (PT) 0.073
+Gleisi Hoffmann (PT) Nilto Tatto (PT) 0.100
+Gleisi Hoffmann (PT) Padre João (PT) 0.085
+Juliana Cardoso (PT) Lindbergh Farias (PT) 0.095
+Juliana Cardoso (PT) Josias Gomes (PT) 0.081
+Juliana Cardoso (PT) Alfredinho (PT) 0.081
+Juliana Cardoso (PT) Ana Pimentel (PT) 0.081
+Juliana Cardoso (PT) Arlindo Chinaglia (PT) 0.041
+Juliana Cardoso (PT) Benedita da Silva (PT) 0.027
+Juliana Cardoso (PT) Bohn Gass (PT) 0.095
+Juliana Cardoso (PT) Carlos Zarattini (PT) 0.068
+Juliana Cardoso (PT) Carol Dartora (PT) 0.095
+Juliana Cardoso (PT) Delegada Adriana Accorsi (PT) 0.054
+Juliana Cardoso (PT) Dilvanda Faro (PT) 0.068
+Juliana Cardoso (PT) Dimas Gadelha (PT) 0.081
+Juliana Cardoso (PT) Dr. Francisco (PT) 0.054
+Juliana Cardoso (PT) Florentino Neto (PT) 0.095
+Juliana Cardoso (PT) Jack Rocha (PT) 0.081
+Juliana Cardoso (PT) João Daniel (PT) 0.095
+Juliana Cardoso (PT) Jorge Solla (PT) 0.095
+Juliana Cardoso (PT) Marcon (PT) 0.095
+Juliana Cardoso (PT) Merlong Solano (PT) 0.014
+Juliana Cardoso (PT) Padre João (PT) 0.054
+Juliana Cardoso (PT) Reimont (PT) 0.041
+Juliana Cardoso (PT) Rogério Correia (PT) 0.054
+Juliana Cardoso (PT) Vander Loubet (PT) 0.081
+Juliana Cardoso (PT) Fernando Mineiro (PT) 0.095
+Tadeu Veneri (PT) Lindbergh Farias (PT) 0.100
+Tadeu Veneri (PT) Josias Gomes (PT) 0.100
+Tadeu Veneri (PT) Ana Pimentel (PT) 0.100
+Tadeu Veneri (PT) Arlindo Chinaglia (PT) 0.062
+Tadeu Veneri (PT) Benedita da Silva (PT) 0.050
+Tadeu Veneri (PT) Bohn Gass (PT) 0.100
+Tadeu Veneri (PT) Carlos Zarattini (PT) 0.100
+Tadeu Veneri (PT) Delegada Adriana Accorsi (PT) 0.100
+Tadeu Veneri (PT) Dilvanda Faro (PT) 0.075
+Tadeu Veneri (PT) Dimas Gadelha (PT) 0.100
+Tadeu Veneri (PT) Dr. Francisco (PT) 0.062
+Tadeu Veneri (PT) Jack Rocha (PT) 0.062
+Tadeu Veneri (PT) Luizianne Lins (PT) 0.100
+Tadeu Veneri (PT) Merlong Solano (PT) 0.037
+Tadeu Veneri (PT) Padre João (PT) 0.088
+Tadeu Veneri (PT) Reginaldo Lopes (PT) 0.091
+Tadeu Veneri (PT) Reimont (PT) 0.075
+Tadeu Veneri (PT) Rogério Correia (PT) 0.062
+Welter (PT) José Guimarães (PT) 0.088
+Welter (PT) Josias Gomes (PT) 0.088
+Welter (PT) Alfredinho (PT) 0.062
+Welter (PT) Ana Pimentel (PT) 0.075
+Welter (PT) Arlindo Chinaglia (PT) 0.050
+Welter (PT) Benedita da Silva (PT) 0.050
+Welter (PT) Carlos Zarattini (PT) 0.050
+Welter (PT) Carol Dartora (PT) 0.100
+Welter (PT) Delegada Adriana Accorsi (PT) 0.088
+Welter (PT) Dilvanda Faro (PT) 0.088
+Welter (PT) Dimas Gadelha (PT) 0.050
+Welter (PT) Dr. Francisco (PT) 0.037
+Welter (PT) Jack Rocha (PT) 0.062
+Welter (PT) Jorge Solla (PT) 0.088
+Welter (PT) Luizianne Lins (PT) 0.100
+Welter (PT) Marcon (PT) 0.100
+Welter (PT) Merlong Solano (PT) 0.050
+Welter (PT) Padre João (PT) 0.088
+Welter (PT) Reimont (PT) 0.025
+Welter (PT) Rogério Correia (PT) 0.075
+Welter (PT) Vander Loubet (PT) 0.100
+Welter (PT) Vicentinho (PT) 0.100
+Welter (PT) Zé Neto (PT) 0.100
+Welter (PT) Zeca Dirceu (PT) 0.072
+Josias Gomes (PT) Alfredinho (PT) 0.083
+Josias Gomes (PT) Ana Paula Lima (PT) 0.092
+Josias Gomes (PT) Ana Pimentel (PT) 0.095
+Josias Gomes (PT) Arlindo Chinaglia (PT) 0.036
+Josias Gomes (PT) Benedita da Silva (PT) 0.012
+Josias Gomes (PT) Bohn Gass (PT) 0.085
+Josias Gomes (PT) Camila Jara (PT) 0.098
+Josias Gomes (PT) Carlos Zarattini (PT) 0.095
+Josias Gomes (PT) Carol Dartora (PT) 0.074
+Josias Gomes (PT) Dilvanda Faro (PT) 0.071
+Josias Gomes (PT) Dimas Gadelha (PT) 0.060
+Josias Gomes (PT) Dr. Francisco (PT) 0.060
+Josias Gomes (PT) Fernando Mineiro (PT) 0.075
+Josias Gomes (PT) Florentino Neto (PT) 0.083
+Josias Gomes (PT) Ivoneide Caetano (PT) 0.096
+Josias Gomes (PT) Jack Rocha (PT) 0.071
+Josias Gomes (PT) Jorge Solla (PT) 0.085
+Josias Gomes (PT) José Airton Félix Cirilo (PT) 0.032
+Josias Gomes (PT) Kiko Celeguim (PT) 0.076
+Josias Gomes (PT) Luizianne Lins (PT) 0.049
+Josias Gomes (PT) Merlong Solano (PT) 0.024
+Josias Gomes (PT) Natália Bonavides (PT) 0.099
+Josias Gomes (PT) Odair Cunha (PT) 0.085
+Josias Gomes (PT) Padre João (PT) 0.060
+Josias Gomes (PT) Paulo Guedes (PT) 0.099
+Josias Gomes (PT) Reginete Bispo (PT) 0.099
+Josias Gomes (PT) Reimont (PT) 0.071
+Josias Gomes (PT) Tadeu Veneri (PT) 0.100
+Josias Gomes (PT) Vander Loubet (PT) 0.096
+Josias Gomes (PT) Vicentinho (PT) 0.099
+Josias Gomes (PT) Welter (PT) 0.088
+Josias Gomes (PT) Zé Neto (PT) 0.099
+Josias Gomes (PT) Zeca Dirceu (PT) 0.087
+Josias Gomes (PT) Airton Faleiro (PT) 0.091
+Josias Gomes (PT) Delegada Adriana Accorsi (PT) 0.071
+Josias Gomes (PT) Juliana Cardoso (PT) 0.081
+Josias Gomes (PT) Nilto Tatto (PT) 0.088
+Josias Gomes (PT) João Daniel (PT) 0.075
+Josias Gomes (PT) Marcon (PT) 0.062
+Josias Gomes (PT) Rogério Correia (PT) 0.071
+Patrus Ananias (PT) Luiz Couto (PT) 0.095
+Célia Xakriabá (PSOL) Chico Alencar (PSOL) 0.025
+Célia Xakriabá (PSOL) Guilherme Boulos (PSOL) 0.025
+Célia Xakriabá (PSOL) Pastor Henrique Vieira (PSOL) 0.025
+Célia Xakriabá (PSOL) Professora Luciene Cavalcante (PSOL) 0.025
+Célia Xakriabá (PSOL) Talíria Petrone (PSOL) 0.100
+Dandara (PT) Alfredinho (PT) 0.095
+Dandara (PT) Ana Pimentel (PT) 0.095
+Dandara (PT) Arlindo Chinaglia (PT) 0.068
+Dandara (PT) Benedita da Silva (PT) 0.054
+Dandara (PT) Carlos Zarattini (PT) 0.095
+Dandara (PT) Delegada Adriana Accorsi (PT) 0.095
+Dandara (PT) Dilvanda Faro (PT) 0.095
+Dandara (PT) Dr. Francisco (PT) 0.068
+Dandara (PT) Jack Rocha (PT) 0.054
+Dandara (PT) Marcon (PT) 0.095
+Dandara (PT) Merlong Solano (PT) 0.041
+Dandara (PT) Padre João (PT) 0.068
+Dandara (PT) Reimont (PT) 0.068
+Dandara (PT) Rogério Correia (PT) 0.054
+Dandara (PT) Luiza Erundina (PSOL) 0.077
+Luiza Erundina (PSOL) José Guimarães (PT) 0.077
+Luiza Erundina (PSOL) Luiz Couto (PT) 0.077
+Luiza Erundina (PSOL) Alfredinho (PT) 0.077
+Luiza Erundina (PSOL) Ana Pimentel (PT) 0.077
+Luiza Erundina (PSOL) Arlindo Chinaglia (PT) 0.077
+Luiza Erundina (PSOL) Carlos Zarattini (PT) 0.077
+Luiza Erundina (PSOL) Carol Dartora (PT) 0.077
+Luiza Erundina (PSOL) Dilvanda Faro (PT) 0.077
+Luiza Erundina (PSOL) Dimas Gadelha (PT) 0.077
+Luiza Erundina (PSOL) Dr. Francisco (PT) 0.038
+Luiza Erundina (PSOL) Erika Kokay (PT) 0.077
+Luiza Erundina (PSOL) Guilherme Boulos (PSOL) 0.077
+Luiza Erundina (PSOL) Ivan Valente (PSOL) 0.077
+Luiza Erundina (PSOL) Jorge Solla (PT) 0.077
+Luiza Erundina (PSOL) Padre João (PT) 0.077
+Luiza Erundina (PSOL) Pastor Henrique Vieira (PSOL) 0.077
+Luiza Erundina (PSOL) Professora Luciene Cavalcante (PSOL) 0.077
+Luiza Erundina (PSOL) Reimont (PT) 0.038
+Luiza Erundina (PSOL) Rogério Correia (PT) 0.077
+Luiza Erundina (PSOL) Vander Loubet (PT) 0.077
+Luiza Erundina (PSOL) Vicentinho (PT) 0.038
+Luiza Erundina (PSOL) Washington Quaquá (PT) 0.077
+Luiza Erundina (PSOL) Dandara (PT) 0.077
